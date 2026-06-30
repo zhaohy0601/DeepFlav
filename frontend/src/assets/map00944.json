@@ -1,0 +1,1058 @@
+[
+  {
+    "group": "nodes",
+    "data": {
+      "id": "10",
+      "label": "Apigenin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 98.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "11",
+      "label": "Kaempferol-3-O-galactoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 305.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "12",
+      "label": "Kaempferide",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 636.0,
+      "y": 109.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "13",
+      "label": "Apigenin 7-O-[beta-D-apiosyl-(1->2)-beta-D-glucoside]",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 312.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "14",
+      "label": "Chrysoeriol",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 98.0,
+      "y": 579.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "15",
+      "label": "Laricitrin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 729.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "16",
+      "label": "Rutin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 492.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "17",
+      "label": "Quercetin 3,3'-bissulfate",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 645.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "18",
+      "label": "3,7-Di-O-methylquercetin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 368.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "19",
+      "label": "3,7,4'-Tri-O-methylquercetin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 960.0,
+      "y": 368.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "20",
+      "label": "Kaempferol 3-O-beta-D-glucosylgalactoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 305.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "21",
+      "label": "3-O-Methylquercetin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 368.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "22",
+      "label": "Kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "23",
+      "label": "Syringetin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 729.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "24",
+      "label": "Kaempferol 3-sophorotrioside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 960.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "25",
+      "label": "Quercetin 3-O-(6-O-malonyl-beta-D-glucoside)",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 410.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "26",
+      "label": "Quercetin 3-sulfate",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 645.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "27",
+      "label": "Quercetin 3,4',7-trissulfate",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 960.0,
+      "y": 687.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "28",
+      "label": "Quercetin 3,4'-bissulfate",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 687.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "29",
+      "label": "Quercetin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 636.0,
+      "y": 410.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "30",
+      "label": "Quercetin 3,3',7-trissulfate",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 960.0,
+      "y": 645.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "31",
+      "label": "Kaempferol",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 636.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "32",
+      "label": "Isoquercitrin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 410.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "33",
+      "label": "Kaempferol 3-O-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "34",
+      "label": "Myricetin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 636.0,
+      "y": 729.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "35",
+      "label": "Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 420.0,
+      "y": 507.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "36",
+      "label": "Luteolin 7-O-glucuronide",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 206.0,
+      "y": 507.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "37",
+      "label": "Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 312.0,
+      "y": 507.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "38",
+      "label": "Luteolin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 98.0,
+      "y": 507.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "39",
+      "label": "Malonylapiin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 420.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "40",
+      "label": "Flavonoid biosynthesis",
+      "type": "Map"
+    },
+    "position": {
+      "x": 333.0,
+      "y": 160.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "41",
+      "label": "TITLE:Flavone and flavonol biosynthesis",
+      "type": "Map"
+    },
+    "position": {
+      "x": 196.0,
+      "y": 58.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "42",
+      "label": "Luteolin 7-O-beta-D-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 206.0,
+      "y": 465.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "43",
+      "label": "Apigenin 7-O-beta-D-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 206.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "44",
+      "label": "Acacetin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 98.0,
+      "y": 107.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "82",
+      "label": "K13264",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 364.0,
+      "y": 222.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "83",
+      "label": "TT7",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 119.0,
+      "y": 410.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "88",
+      "label": "K01195",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 364.0,
+      "y": 518.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "91",
+      "label": "K13269",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 306.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "92",
+      "label": "K05279",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 369.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "93",
+      "label": "UGT78D2",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 222.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "94",
+      "label": "UGT78D2",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 411.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "95",
+      "label": "TT7",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 658.0,
+      "y": 338.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "96",
+      "label": "K13083",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 608.0,
+      "y": 338.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "97",
+      "label": "K22794",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 306.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "98",
+      "label": "K22772",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 493.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "99",
+      "label": "K13271",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 688.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "100",
+      "label": "K22794",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 222.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "101",
+      "label": "K13272",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 730.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "109",
+      "label": "K13270",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 646.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "110",
+      "label": "K13272",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 730.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "112",
+      "label": "Scolymoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 312.0,
+      "y": 465.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "113",
+      "label": "K13080",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 254.0,
+      "y": 467.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "116",
+      "label": "Quercetin 3-(2G-xylosylrutinoside)",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 960.0,
+      "y": 492.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "117",
+      "label": "Quercetin 3-O-[beta-D-xylosyl-(1->2)-beta-D-glucoside]",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 853.0,
+      "y": 449.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "124",
+      "label": "Isovitexin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 206.0,
+      "y": 311.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "125",
+      "label": "Isovitexin 2''-O-beta-D-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 312.0,
+      "y": 311.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "126",
+      "label": "Vitexin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 206.0,
+      "y": 358.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "127",
+      "label": "Vitexin 2''-O-beta-D-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 313.0,
+      "y": 358.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "128",
+      "label": "Vitexin 2''-O-beta-L-rhamnoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 312.0,
+      "y": 397.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "131",
+      "label": "Isoswertisin 2''-rhamnoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 420.0,
+      "y": 397.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "132",
+      "label": "Quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 537.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "133",
+      "label": "Kaempferol 3-O-[6-(4-coumaroyl)-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside]",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 1070.0,
+      "y": 221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "134",
+      "label": "Quercetin 3-sophorotrioside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 960.0,
+      "y": 538.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "135",
+      "label": "Apigenin 7-O-neohesperidoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 312.0,
+      "y": 264.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "137",
+      "label": "K13080",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 254.0,
+      "y": 265.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "139",
+      "label": "UGT78D1",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 581.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "141",
+      "label": "K22794",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 538.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "142",
+      "label": "Quercitrin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 580.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "143",
+      "label": "Quercetin 3-O-rhamnoside 7-O-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 580.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "145",
+      "label": "UGT73C6",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 581.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "146",
+      "label": "Afzelin",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 744.0,
+      "y": 182.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "147",
+      "label": "UGT78D1",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 686.0,
+      "y": 183.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "148",
+      "label": "K13083",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 632.0,
+      "y": 687.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "149",
+      "label": "K13083",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 69.0,
+      "y": 410.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "151",
+      "label": "Kaempferol-3-O-rutinoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 263.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "152",
+      "label": "K22772",
+      "type": "Ortholog"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 264.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "154",
+      "label": "UGT73C6",
+      "type": "Gene"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 183.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "155",
+      "label": "Kaempferol 3-O-rhamnoside-7-O-glucoside",
+      "type": "Compound"
+    },
+    "position": {
+      "x": 852.0,
+      "y": 182.0
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e0",
+      "source": "95",
+      "target": "93",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e1",
+      "source": "95",
+      "target": "94",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e2",
+      "source": "83",
+      "target": "40",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e3",
+      "source": "93",
+      "target": "40",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e4",
+      "source": "95",
+      "target": "40",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e5",
+      "source": "95",
+      "target": "139",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e6",
+      "source": "94",
+      "target": "139",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e7",
+      "source": "40",
+      "target": "147",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e8",
+      "source": "95",
+      "target": "147",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e9",
+      "source": "93",
+      "target": "147",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e10",
+      "source": "147",
+      "target": "154",
+      "arrow": "triangle"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e11",
+      "source": "139",
+      "target": "145",
+      "arrow": "triangle"
+    }
+  }
+]

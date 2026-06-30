@@ -1,0 +1,472 @@
+[
+  {
+    "group": "nodes",
+    "data": { "id": "10", "label": "Apigenin", "type": "Compound" },
+    "position": { "x": 98.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "11", "label": "Kaempferol-3-O-galactoside", "type": "Compound" },
+    "position": { "x": 744.0, "y": 305.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "12", "label": "Kaempferide", "type": "Compound" },
+    "position": { "x": 636.0, "y": 109.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "13", "label": "Apigenin 7-O-[beta-D-apiosyl-(1->2)-beta-D-glucoside]", "type": "Compound" },
+    "position": { "x": 312.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "14", "label": "Chrysoeriol", "type": "Compound" },
+    "position": { "x": 98.0, "y": 579.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "15", "label": "Laricitrin", "type": "Compound" },
+    "position": { "x": 744.0, "y": 729.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "16", "label": "Rutin", "type": "Compound" },
+    "position": { "x": 852.0, "y": 492.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "17", "label": "Quercetin 3,3'-bissulfate", "type": "Compound" },
+    "position": { "x": 852.0, "y": 645.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "18", "label": "3,7-Di-O-methylquercetin", "type": "Compound" },
+    "position": { "x": 852.0, "y": 368.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "19", "label": "3,7,4'-Tri-O-methylquercetin", "type": "Compound" },
+    "position": { "x": 960.0, "y": 368.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "20", "label": "Kaempferol 3-O-beta-D-glucosylgalactoside", "type": "Compound" },
+    "position": { "x": 852.0, "y": 305.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "21", "label": "3-O-Methylquercetin", "type": "Compound" },
+    "position": { "x": 744.0, "y": 368.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "22", "label": "Kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside", "type": "Compound" },
+    "position": { "x": 852.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "23", "label": "Syringetin", "type": "Compound" },
+    "position": { "x": 852.0, "y": 729.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "24", "label": "Kaempferol 3-sophorotrioside", "type": "Compound" },
+    "position": { "x": 960.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "25", "label": "Quercetin 3-O-(6-O-malonyl-beta-D-glucoside)", "type": "Compound" },
+    "position": { "x": 852.0, "y": 410.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "26", "label": "Quercetin 3-sulfate", "type": "Compound" },
+    "position": { "x": 744.0, "y": 645.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "27", "label": "Quercetin 3,4',7-trissulfate", "type": "Compound" },
+    "position": { "x": 960.0, "y": 687.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "28", "label": "Quercetin 3,4'-bissulfate", "type": "Compound" },
+    "position": { "x": 852.0, "y": 687.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "29", "label": "Quercetin", "type": "Compound" },
+    "position": { "x": 636.0, "y": 410.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "30", "label": "Quercetin 3,3',7-trissulfate", "type": "Compound" },
+    "position": { "x": 960.0, "y": 645.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "31", "label": "Kaempferol", "type": "Compound" },
+    "position": { "x": 636.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "32", "label": "Isoquercitrin", "type": "Compound" },
+    "position": { "x": 744.0, "y": 410.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "33", "label": "Kaempferol 3-O-glucoside", "type": "Compound" },
+    "position": { "x": 744.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "34", "label": "Myricetin", "type": "Compound" },
+    "position": { "x": 636.0, "y": 729.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "35", "label": "Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide", "type": "Compound" },
+    "position": { "x": 420.0, "y": 507.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "36", "label": "Luteolin 7-O-glucuronide", "type": "Compound" },
+    "position": { "x": 206.0, "y": 507.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "37", "label": "Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]", "type": "Compound" },
+    "position": { "x": 312.0, "y": 507.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "38", "label": "Luteolin", "type": "Compound" },
+    "position": { "x": 98.0, "y": 507.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "39", "label": "Malonylapiin", "type": "Compound" },
+    "position": { "x": 420.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "40", "label": "Flavonoid biosynthesis", "type": "Map" },
+    "position": { "x": 333.0, "y": 160.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "41", "label": "TITLE:Flavone and flavonol biosynthesis", "type": "Map" },
+    "position": { "x": 196.0, "y": 58.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "42", "label": "Luteolin 7-O-beta-D-glucoside", "type": "Compound" },
+    "position": { "x": 206.0, "y": 465.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "43", "label": "Apigenin 7-O-beta-D-glucoside", "type": "Compound" },
+    "position": { "x": 206.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "44", "label": "Acacetin", "type": "Compound" },
+    "position": { "x": 98.0, "y": 107.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "82", "label": "K13264", "type": "Ortholog" },
+    "position": { "x": 364.0, "y": 222.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "83", "label": "TT7", "type": "Gene" },
+    "position": { "x": 119.0, "y": 410.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "88", "label": "K01195", "type": "Ortholog" },
+    "position": { "x": 364.0, "y": 518.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "91", "label": "K13269", "type": "Ortholog" },
+    "position": { "x": 686.0, "y": 306.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "92", "label": "K05279", "type": "Ortholog" },
+    "position": { "x": 686.0, "y": 369.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "93", "label": "UGT78D2", "type": "Gene" },
+    "position": { "x": 686.0, "y": 222.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "94", "label": "UGT78D2", "type": "Gene" },
+    "position": { "x": 686.0, "y": 411.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "95", "label": "TT7", "type": "Gene" },
+    "position": { "x": 658.0, "y": 338.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "96", "label": "K13083", "type": "Ortholog" },
+    "position": { "x": 608.0, "y": 338.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "97", "label": "K22794", "type": "Ortholog" },
+    "position": { "x": 791.0, "y": 306.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "98", "label": "K22772", "type": "Ortholog" },
+    "position": { "x": 791.0, "y": 493.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "99", "label": "K13271", "type": "Ortholog" },
+    "position": { "x": 791.0, "y": 688.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "100", "label": "K22794", "type": "Ortholog" },
+    "position": { "x": 791.0, "y": 222.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "101", "label": "K13272", "type": "Ortholog" },
+    "position": { "x": 791.0, "y": 730.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "109", "label": "K13270", "type": "Ortholog" },
+    "position": { "x": 686.0, "y": 646.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "110", "label": "K13272", "type": "Ortholog" },
+    "position": { "x": 686.0, "y": 730.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "112", "label": "Scolymoside", "type": "Compound" },
+    "position": { "x": 312.0, "y": 465.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "113", "label": "K13080", "type": "Ortholog" },
+    "position": { "x": 254.0, "y": 467.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "116", "label": "Quercetin 3-(2G-xylosylrutinoside)", "type": "Compound" },
+    "position": { "x": 960.0, "y": 492.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "117", "label": "Quercetin 3-O-[beta-D-xylosyl-(1->2)-beta-D-glucoside]", "type": "Compound" },
+    "position": { "x": 853.0, "y": 449.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "124", "label": "Isovitexin", "type": "Compound" },
+    "position": { "x": 206.0, "y": 311.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "125", "label": "Isovitexin 2''-O-beta-D-glucoside", "type": "Compound" },
+    "position": { "x": 312.0, "y": 311.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "126", "label": "Vitexin", "type": "Compound" },
+    "position": { "x": 206.0, "y": 358.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "127", "label": "Vitexin 2''-O-beta-D-glucoside", "type": "Compound" },
+    "position": { "x": 313.0, "y": 358.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "128", "label": "Vitexin 2''-O-beta-L-rhamnoside", "type": "Compound" },
+    "position": { "x": 312.0, "y": 397.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "131", "label": "Isoswertisin 2''-rhamnoside", "type": "Compound" },
+    "position": { "x": 420.0, "y": 397.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "132", "label": "Quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside", "type": "Compound" },
+    "position": { "x": 852.0, "y": 537.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "133", "label": "Kaempferol 3-O-[6-(4-coumaroyl)-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside]", "type": "Compound" },
+    "position": { "x": 1070.0, "y": 221.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "134", "label": "Quercetin 3-sophorotrioside", "type": "Compound" },
+    "position": { "x": 960.0, "y": 538.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "135", "label": "Apigenin 7-O-neohesperidoside", "type": "Compound" },
+    "position": { "x": 312.0, "y": 264.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "137", "label": "K13080", "type": "Ortholog" },
+    "position": { "x": 254.0, "y": 265.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "139", "label": "UGT78D1", "type": "Gene" },
+    "position": { "x": 686.0, "y": 581.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "141", "label": "K22794", "type": "Ortholog" },
+    "position": { "x": 791.0, "y": 538.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "142", "label": "Quercitrin", "type": "Compound" },
+    "position": { "x": 744.0, "y": 580.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "143", "label": "Quercetin 3-O-rhamnoside 7-O-glucoside", "type": "Compound" },
+    "position": { "x": 852.0, "y": 580.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "145", "label": "UGT73C6", "type": "Gene" },
+    "position": { "x": 791.0, "y": 581.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "146", "label": "Afzelin", "type": "Compound" },
+    "position": { "x": 744.0, "y": 182.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "147", "label": "UGT78D1", "type": "Gene" },
+    "position": { "x": 686.0, "y": 183.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "148", "label": "K13083", "type": "Ortholog" },
+    "position": { "x": 632.0, "y": 687.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "149", "label": "K13083", "type": "Ortholog" },
+    "position": { "x": 69.0, "y": 410.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "151", "label": "Kaempferol-3-O-rutinoside", "type": "Compound" },
+    "position": { "x": 852.0, "y": 263.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "152", "label": "K22772", "type": "Ortholog" },
+    "position": { "x": 791.0, "y": 264.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "154", "label": "UGT73C6", "type": "Gene" },
+    "position": { "x": 791.0, "y": 183.0 }
+  },
+  {
+    "group": "nodes",
+    "data": { "id": "155", "label": "Kaempferol 3-O-rhamnoside-7-O-glucoside", "type": "Compound" },
+    "position": { "x": 852.0, "y": 182.0 }
+  },
+  { "group": "edges", "data": { "id": "e0", "source": "10", "target": "83", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e1", "source": "83", "target": "38", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e2", "source": "10", "target": "149", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e3", "source": "149", "target": "38", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e4", "source": "10", "target": "43", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e5", "source": "43", "target": "13", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e6", "source": "13", "target": "82", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e7", "source": "82", "target": "39", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e8", "source": "10", "target": "137", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e9", "source": "137", "target": "135", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e10", "source": "10", "target": "124", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e11", "source": "124", "target": "125", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e12", "source": "10", "target": "126", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e13", "source": "126", "target": "127", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e14", "source": "126", "target": "128", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e15", "source": "128", "target": "131", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e16", "source": "38", "target": "42", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e17", "source": "42", "target": "113", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e18", "source": "113", "target": "112", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e19", "source": "38", "target": "36", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e20", "source": "36", "target": "37", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e21", "source": "37", "target": "88", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e22", "source": "88", "target": "35", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e23", "source": "40", "target": "31", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e24", "source": "12", "target": "31", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e25", "source": "31", "target": "147", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e26", "source": "147", "target": "146", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e27", "source": "146", "target": "154", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e28", "source": "154", "target": "155", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e29", "source": "31", "target": "93", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e30", "source": "93", "target": "33", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e31", "source": "33", "target": "100", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e32", "source": "100", "target": "22", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e33", "source": "22", "target": "24", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e34", "source": "24", "target": "133", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e35", "source": "33", "target": "152", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e36", "source": "152", "target": "151", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e37", "source": "31", "target": "11", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e38", "source": "33", "target": "91", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e39", "source": "91", "target": "20", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e40", "source": "31", "target": "95", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e41", "source": "95", "target": "29", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e42", "source": "31", "target": "96", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e43", "source": "96", "target": "29", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e44", "source": "29", "target": "92", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e45", "source": "92", "target": "21", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e46", "source": "21", "target": "18", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e47", "source": "18", "target": "19", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e48", "source": "29", "target": "94", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e49", "source": "94", "target": "32", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e50", "source": "32", "target": "25", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e51", "source": "32", "target": "117", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e52", "source": "32", "target": "98", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e53", "source": "98", "target": "16", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e54", "source": "16", "target": "116", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e55", "source": "29", "target": "132", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e56", "source": "132", "target": "141", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e57", "source": "141", "target": "134", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e58", "source": "29", "target": "139", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e59", "source": "139", "target": "142", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e60", "source": "142", "target": "145", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e61", "source": "145", "target": "143", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e62", "source": "29", "target": "26", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e63", "source": "26", "target": "109", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e64", "source": "109", "target": "17", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e65", "source": "17", "target": "30", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e66", "source": "26", "target": "28", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e67", "source": "28", "target": "99", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e68", "source": "99", "target": "27", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e69", "source": "29", "target": "148", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e70", "source": "148", "target": "34", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e71", "source": "34", "target": "110", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e72", "source": "110", "target": "15", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e73", "source": "15", "target": "101", "arrow": "triangle" } },
+  { "group": "edges", "data": { "id": "e74", "source": "101", "target": "23", "arrow": "triangle" } }
+]

@@ -1,0 +1,5525 @@
+[
+  {
+    "group": "edges",
+    "data": {
+      "id": "a0228",
+      "source": "cca9e",
+      "target": "b32f8",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a0771",
+      "label": "A7",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007660"
+        ],
+        "wikidata": [
+          "Q23462624"
+        ],
+        "inchi": [
+          "ABJDYMVXHLYTHZ-DULZENQLSA-O"
+        ],
+        "pubchem": [
+          "163186171"
+        ]
+      }
+    },
+    "position": {
+      "x": 1312.7926826052922,
+      "y": 881.796544851478
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a0877",
+      "source": "edf06",
+      "target": "bc23b",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a0c71",
+      "source": "cca9e",
+      "target": "afef1",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R09802"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a1239",
+      "label": "Q 3-Rha-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005432"
+        ],
+        "wikidata": [
+          "Q23418551"
+        ],
+        "chebi": [
+          "133245"
+        ],
+        "inchi": [
+          "GXLQUHPXGLZNGE-BRHFUIPOSA-N"
+        ],
+        "pubchem": [
+          "139031037"
+        ],
+        "lipidmaps": [
+          "LMPK12112200"
+        ]
+      }
+    },
+    "position": {
+      "x": 618.6448006068811,
+      "y": 577.8550227296574
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a16ab",
+      "source": "db4d9",
+      "target": "a4336",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a18c7",
+      "source": "be569",
+      "target": "ffadd",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03124"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a1dad",
+      "label": "Hesperetin 7-glucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00008297"
+        ],
+        "chebi": [
+          "59015"
+        ],
+        "kegg": [
+          "C16422"
+        ]
+      }
+    },
+    "position": {
+      "x": 1430.2779831568278,
+      "y": 580.5134897195344
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a2d1b",
+      "source": "a8fa1",
+      "target": "f4126",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a2d6e",
+      "label": "Isorhamnetin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004635"
+        ],
+        "wikidata": [
+          "Q416138"
+        ],
+        "chebi": [
+          "6052"
+        ],
+        "inchi": [
+          "IZQSVPBOUDKVDZ-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5281654"
+        ],
+        "chemspider": [
+          "4444973"
+        ],
+        "hmdb": [
+          "HMDB0002655"
+        ],
+        "kegg": [
+          "C10084"
+        ],
+        "lipidmaps": [
+          "LMPK12110002"
+        ]
+      }
+    },
+    "position": {
+      "x": 553.2507283693136,
+      "y": 627.3134599197025
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a3411",
+      "source": "af8ad",
+      "target": "b6ec2",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a346c",
+      "label": "C 3-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00002374"
+        ],
+        "kegg": [
+          "C08604"
+        ],
+        "lipidmaps": [
+          "LMPK12010110"
+        ]
+      }
+    },
+    "position": {
+      "x": 857.2279317890925,
+      "y": 713.3887063558756
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a364d",
+      "label": "C 3-(6'-Cou)Glc-5-(6'-Mal)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006824"
+        ],
+        "wikidata": [
+          "Q23055392"
+        ],
+        "chebi": [
+          "80435"
+        ],
+        "inchi": [
+          "HCZDGTUAMVKZNE-KMKFZPLVSA-O"
+        ],
+        "pubchem": [
+          "11972402",
+          "101586992"
+        ],
+        "kegg": [
+          "C16299"
+        ],
+        "lipidmaps": [
+          "LMPK12010162"
+        ]
+      }
+    },
+    "position": {
+      "x": 972.7543247658915,
+      "y": 934.3909081294206
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a36f1",
+      "label": "Procyanidin B2",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00009077"
+        ],
+        "wikidata": [
+          "Q7247552"
+        ],
+        "chebi": [
+          "75632"
+        ],
+        "inchi": [
+          "XFZJEEAOWLFHDH-NFJBMHMQSA-N"
+        ],
+        "pubchem": [
+          "122738"
+        ],
+        "chemspider": [
+          "109417"
+        ],
+        "hmdb": [
+          "HMDB0033973"
+        ],
+        "kegg": [
+          "C17639"
+        ],
+        "lipidmaps": [
+          "LMPK12030002"
+        ]
+      }
+    },
+    "position": {
+      "x": 1444.2779831568278,
+      "y": 771.1263588857768
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a3ad8",
+      "label": "4'-Methylluteolin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00001036"
+        ],
+        "wikidata": [
+          "Q1649664"
+        ],
+        "chebi": [
+          "4630"
+        ],
+        "inchi": [
+          "MBNGWHIJMBWFHU-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5281612"
+        ],
+        "chemspider": [
+          "4444931"
+        ],
+        "hmdb": [
+          "HMDB0029676"
+        ],
+        "kegg": [
+          "C10038"
+        ],
+        "lipidmaps": [
+          "LMPK12110824"
+        ]
+      }
+    },
+    "position": {
+      "x": 1723.3255443550663,
+      "y": 491.3309071815123
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a3c9f",
+      "source": "ed09a",
+      "target": "a346c",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06535"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a4336",
+      "label": "Luteolin 5,7-diglucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {}
+    },
+    "position": {
+      "x": 2138.971997391713,
+      "y": 491.3309071815123
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a4aff",
+      "source": "a36f1",
+      "target": "c1452",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a5896",
+      "source": "a2d6e",
+      "target": "c5ea1",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a6237",
+      "label": "Q 3-Ara",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005368"
+        ],
+        "wikidata": [
+          "Q23417673"
+        ],
+        "inchi": [
+          "PZZRDJXEMZMZFD-SQIUQIIDSA-N"
+        ],
+        "pubchem": [
+          "51652818"
+        ]
+      }
+    },
+    "position": {
+      "x": 728.4337447107154,
+      "y": 419.9957906661767
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a62e3",
+      "source": "b7476",
+      "target": "d7df3",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a6516",
+      "source": "b45d4",
+      "target": "b7476",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03590"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a6abf",
+      "label": "Q 3-Glc-7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005427"
+        ],
+        "wikidata": [
+          "Q23049744"
+        ],
+        "inchi": [
+          "BNSCASRSSGJHQH-FMHGSLEFSA-N"
+        ],
+        "pubchem": [
+          "139031074"
+        ]
+      }
+    },
+    "position": {
+      "x": 70.04327820703611,
+      "y": 491.33090718151254
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a7336",
+      "source": "d1f45",
+      "target": "b33f0",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a76db",
+      "source": "ececf",
+      "target": "d1f45",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a78a6",
+      "source": "b8626",
+      "target": "c6404",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02445"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a7954",
+      "source": "d7df3",
+      "target": "da73e",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a7bc5",
+      "source": "dafa9",
+      "target": "aec87",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a7c14",
+      "label": "(+)-epicatechin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000956"
+        ],
+        "wikidata": [
+          "Q23050136"
+        ],
+        "chebi": [
+          "90"
+        ],
+        "inchi": [
+          "PFTAWBLQPZVEMU-UKRRQHHQSA-N"
+        ],
+        "pubchem": [
+          "72276"
+        ],
+        "chemspider": [
+          "65230"
+        ],
+        "hmdb": [
+          "HMDB0001871"
+        ],
+        "kegg": [
+          "C09727"
+        ],
+        "lipidmaps": [
+          "LMPK12020003"
+        ]
+      }
+    },
+    "position": {
+      "x": 1444.2779831568278,
+      "y": 713.7465295116649
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a7d2b",
+      "label": "Leucopelargonidin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00020638"
+        ],
+        "wikidata": [
+          "Q3237095"
+        ],
+        "chebi": [
+          "17343"
+        ],
+        "inchi": [
+          "FSVMLWOLZHGCQX-SOUVJXGZSA-N"
+        ],
+        "pubchem": [
+          "440073"
+        ],
+        "chemspider": [
+          "389080"
+        ],
+        "hmdb": [
+          "HMDB0032322"
+        ],
+        "kegg": [
+          "C03648"
+        ]
+      }
+    },
+    "position": {
+      "x": 1101.9464125968373,
+      "y": 234.55339768832215
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "a8fa1",
+      "label": "I 3-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005525"
+        ],
+        "wikidata": [
+          "Q23049780"
+        ],
+        "inchi": [
+          "CQLRUIIRRZYHHS-BYXQHVMRSA-N"
+        ],
+        "pubchem": [
+          "51402809"
+        ]
+      }
+    },
+    "position": {
+      "x": 337.81714770138,
+      "y": 713.7465295116649
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "a9001",
+      "source": "de377",
+      "target": "c9afb",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "aa094",
+      "label": "Acacetin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00003820"
+        ],
+        "wikidata": [
+          "Q2822213"
+        ],
+        "chebi": [
+          "15335"
+        ],
+        "inchi": [
+          "DANYIYRPLHHOCZ-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5280442"
+        ],
+        "chemspider": [
+          "4444099"
+        ],
+        "kegg": [
+          "C01470"
+        ],
+        "lipidmaps": [
+          "LMPK12110468"
+        ]
+      }
+    },
+    "position": {
+      "x": 1833.7331018163015,
+      "y": 234.55339768832215
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "aa235",
+      "source": "b7826",
+      "target": "d7ceb",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "aa346",
+      "label": "K 3-Gal",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005137"
+        ],
+        "wikidata": [
+          "Q7841515"
+        ],
+        "chebi": [
+          "31742"
+        ],
+        "inchi": [
+          "JPUKWEQWGBDDQB-DTGCRPNFSA-N"
+        ],
+        "pubchem": [
+          "5282149"
+        ],
+        "chemspider": [
+          "10306173"
+        ],
+        "hmdb": [
+          "HMDB0030864"
+        ],
+        "kegg": [
+          "C12626"
+        ],
+        "lipidmaps": [
+          "LMPK12111663"
+        ]
+      }
+    },
+    "position": {
+      "x": 843.9736486822055,
+      "y": 235.05812269498415
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "aa497",
+      "source": "cca9e",
+      "target": "ac1b7",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "aadd2",
+      "label": "I 3-Ara",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005522"
+        ],
+        "wikidata": [
+          "Q23055377"
+        ],
+        "inchi": [
+          "AIDCMCULKOAYOW-YXGISUJOSA-N"
+        ],
+        "pubchem": [
+          "139031084"
+        ]
+      }
+    },
+    "position": {
+      "x": 731.2897325303163,
+      "y": 713.7465295116649
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "aafdf",
+      "source": "d7ee3",
+      "target": "ba7a6",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06820"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "abb00",
+      "label": "K 3-Rha-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005189"
+        ],
+        "wikidata": [
+          "Q6345965"
+        ],
+        "chebi": [
+          "68883"
+        ],
+        "inchi": [
+          "PUPKKEQDLNREIM-QNSQPKOQSA-N"
+        ],
+        "pubchem": [
+          "5486199"
+        ],
+        "chemspider": [
+          "4588900"
+        ],
+        "hmdb": [
+          "HMDB0037438"
+        ],
+        "kegg": [
+          "C16981"
+        ],
+        "lipidmaps": [
+          "LMPK12111865"
+        ]
+      }
+    },
+    "position": {
+      "x": 435.36679881290183,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "abb29",
+      "source": "c6404",
+      "target": "b7476",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06537"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "abf7b",
+      "source": "a6237",
+      "target": "ef476",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ac1b7",
+      "label": "K 7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005149"
+        ]
+      }
+    },
+    "position": {
+      "x": 338.32927559553696,
+      "y": 161.60715755783133
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ac5ce",
+      "source": "b45d4",
+      "target": "cf0db",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "acab6",
+      "source": "db4d9",
+      "target": "da73e",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ad0cb",
+      "source": "c5ea1",
+      "target": "b1607",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ae9cb",
+      "label": "3-O-Methylquercetin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004632"
+        ],
+        "wikidata": [
+          "Q23068616"
+        ],
+        "chebi": [
+          "16860"
+        ],
+        "inchi": [
+          "WEPBGSIAWZTEJR-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5280681"
+        ],
+        "chemspider": [
+          "4444273"
+        ],
+        "kegg": [
+          "C04443"
+        ],
+        "lipidmaps": [
+          "LMPK12112729"
+        ]
+      }
+    },
+    "position": {
+      "x": 709.5959019712468,
+      "y": 370.5650283283558
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "aec87",
+      "label": "Q 3-(2'-Rha)Glc-7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005470"
+        ],
+        "wikidata": [
+          "Q23418553"
+        ],
+        "inchi": [
+          "WLPJMCCYDZFCBL-JJSAVOBRSA-N"
+        ],
+        "pubchem": [
+          "139031038"
+        ]
+      }
+    },
+    "position": {
+      "x": 305.66126439475505,
+      "y": 627.3134599197024
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "af8ad",
+      "label": "I 3-Glc-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005557"
+        ],
+        "wikidata": [
+          "Q45410367"
+        ],
+        "inchi": [
+          "NEJKEXUJCSYMCC-AKTJOMHVSA-N"
+        ],
+        "pubchem": [
+          "139033597"
+        ]
+      }
+    },
+    "position": {
+      "x": 325.137985628613,
+      "y": 771.1263588857769
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "afc18",
+      "source": "da874",
+      "target": "ae9cb",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02157"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "afef1",
+      "label": "K 3-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005140"
+        ],
+        "chebi": [
+          "80790"
+        ],
+        "kegg": [
+          "C16911"
+        ],
+        "lipidmaps": [
+          "LMPK12111842"
+        ]
+      }
+    },
+    "position": {
+      "x": 454.84575136928083,
+      "y": 234.5533976883221
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b0252",
+      "source": "cca9e",
+      "target": "daec9",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06611"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b02be",
+      "source": "ac1b7",
+      "target": "ddd03",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b0f17",
+      "source": "da874",
+      "target": "e1a28",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R09803"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b10c9",
+      "source": "d22b3",
+      "target": "d68c3",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b1607",
+      "label": "I 3-Rha-7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005558"
+        ],
+        "wikidata": [
+          "Q23049771"
+        ],
+        "inchi": [
+          "UWQOGHWNWIJMNI-SZBCTZJWSA-N"
+        ],
+        "pubchem": [
+          "139031077"
+        ]
+      }
+    },
+    "position": {
+      "x": 626.2311484131727,
+      "y": 713.7465295116649
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b1b0b",
+      "label": "Genkwanin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00001043"
+        ],
+        "wikidata": [
+          "Q3050376"
+        ],
+        "chebi": [
+          "75718"
+        ],
+        "inchi": [
+          "JPMYFOBNRRGFNO-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5281617"
+        ],
+        "chemspider": [
+          "4444936"
+        ],
+        "hmdb": [
+          "HMDB0252684"
+        ],
+        "kegg": [
+          "C10046"
+        ],
+        "lipidmaps": [
+          "LMPK12111018"
+        ]
+      }
+    },
+    "position": {
+      "x": 1734.598938685282,
+      "y": 234.5533976883221
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b1cc5",
+      "source": "b8626",
+      "target": "b45d4",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02442"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b2114",
+      "label": "K 3-Ara-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005174"
+        ],
+        "wikidata": [
+          "Q23058968"
+        ],
+        "inchi": [
+          "JIGYKOJSDSJFFW-DBFSWMNWSA-N"
+        ],
+        "pubchem": [
+          "139031088"
+        ]
+      }
+    },
+    "position": {
+      "x": 716.837118051191,
+      "y": 344.37558612546354
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b32f8",
+      "label": "K 3-Ara",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005132"
+        ]
+      }
+    },
+    "position": {
+      "x": 729.8121097384212,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b3393",
+      "source": "f82fe",
+      "target": "a364d",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R07910"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b33f0",
+      "label": "A11",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007570"
+        ],
+        "wikidata": [
+          "Q23449331"
+        ],
+        "inchi": [
+          "QRNIDVBVORPNBX-WSXZECFZSA-O"
+        ],
+        "pubchem": [
+          "163192166"
+        ]
+      }
+    },
+    "position": {
+      "x": 1351.0058638404344,
+      "y": 934.3909081294205
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b36ce",
+      "label": "K 3-(6'-Rha)Gal",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005160"
+        ],
+        "wikidata": [
+          "Q50318427"
+        ],
+        "inchi": [
+          "RTATXGUCZHCSNG-DKBMUQCHSA-N"
+        ],
+        "pubchem": [
+          "139033618"
+        ]
+      }
+    },
+    "position": {
+      "x": 827.9257643951239,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b42f5",
+      "source": "b7826",
+      "target": "d16a7",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b44e1",
+      "source": "c6404",
+      "target": "b1b0b",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b45d4",
+      "label": "Eriodictyol",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000960"
+        ],
+        "kegg": [
+          "C05631"
+        ],
+        "lipidmaps": [
+          "LMPK12140002",
+          "LMPK12140432"
+        ]
+      }
+    },
+    "position": {
+      "x": 1452.6669607901151,
+      "y": 419.5788211632762
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b5b1c",
+      "source": "da874",
+      "target": "a2d6e",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b60ac",
+      "source": "f4126",
+      "target": "b6ec2",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b6ec2",
+      "label": "I 3-(2'-Rha)Glc-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {}
+    },
+    "position": {
+      "x": 421.41135225130984,
+      "y": 771.1263588857769
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b7476",
+      "label": "Luteolin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000674"
+        ],
+        "wikidata": [
+          "Q415011"
+        ],
+        "chebi": [
+          "15864"
+        ],
+        "inchi": [
+          "IQPNAANSBPBGFQ-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5280445"
+        ],
+        "chemspider": [
+          "4444102"
+        ],
+        "hmdb": [
+          "HMDB0005800"
+        ],
+        "kegg": [
+          "C01514"
+        ],
+        "lipidmaps": [
+          "LMPK12110006"
+        ]
+      }
+    },
+    "position": {
+      "x": 1887.1290799149272,
+      "y": 419.57882116327613
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b74bd",
+      "source": "b8626",
+      "target": "d7ee3",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02897"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b7826",
+      "label": "A6",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007658"
+        ],
+        "wikidata": [
+          "Q23462761"
+        ],
+        "inchi": [
+          "OPWPCWHMCUWCGG-VTRYSJNRSA-O"
+        ],
+        "pubchem": [
+          "163192202",
+          "44256802"
+        ]
+      }
+    },
+    "position": {
+      "x": 1233.8283818222649,
+      "y": 834.8667201439488
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b7c08",
+      "label": "K 3-Glc-7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005182"
+        ],
+        "wikidata": [
+          "Q23069148"
+        ],
+        "chebi": [
+          "133224"
+        ],
+        "inchi": [
+          "XFFQVRFGLSBFON-DEFKTLOSSA-N"
+        ],
+        "pubchem": [
+          "6325460"
+        ],
+        "chemspider": [
+          "24784758",
+          "4884845"
+        ],
+        "lipidmaps": [
+          "LMPK12111738"
+        ]
+      }
+    },
+    "position": {
+      "x": 67.16127852288915,
+      "y": 344.28645047256884
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b7c9a",
+      "source": "aa346",
+      "target": "b36ce",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b7e64",
+      "label": "I 3-(6'-Rha)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005548"
+        ],
+        "wikidata": [
+          "Q23418564"
+        ],
+        "chebi": [
+          "145096"
+        ],
+        "inchi": [
+          "UIDGLYUNOUKLBM-GEBJFKNCSA-N"
+        ],
+        "pubchem": [
+          "5481663"
+        ],
+        "chemspider": [
+          "4587469"
+        ]
+      }
+    },
+    "position": {
+      "x": 203.633961203995,
+      "y": 713.7465295116649
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b820f",
+      "source": "b7476",
+      "target": "a3ad8",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "b8626",
+      "label": "Naringenin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000982"
+        ],
+        "wikidata": [
+          "Q418374"
+        ],
+        "chebi": [
+          "17846"
+        ],
+        "inchi": [
+          "FTVWIRXFELQLPI-ZDUSSCGKSA-N"
+        ],
+        "pubchem": [
+          "439246"
+        ],
+        "chemspider": [
+          "388383"
+        ],
+        "hmdb": [
+          "HMDB0002670"
+        ],
+        "kegg": [
+          "C00509"
+        ],
+        "lipidmaps": [
+          "LMPK12140001"
+        ]
+      }
+    },
+    "position": {
+      "x": 1447.2618309003851,
+      "y": 162.57386747565826
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "b9f72",
+      "source": "ffadd",
+      "target": "da874",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02160"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ba7a6",
+      "label": "Naringin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000983"
+        ],
+        "wikidata": [
+          "Q418469"
+        ],
+        "chebi": [
+          "28819"
+        ],
+        "inchi": [
+          "DFPMSGMNTNDNHN-ZPHOTFPESA-N"
+        ],
+        "pubchem": [
+          "442428"
+        ],
+        "chemspider": [
+          "390868"
+        ],
+        "hmdb": [
+          "HMDB0002927"
+        ],
+        "kegg": [
+          "C09789"
+        ],
+        "lipidmaps": [
+          "LMPK12140235"
+        ]
+      }
+    },
+    "position": {
+      "x": 1301.0759178582327,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "bb391",
+      "label": "Naringenin 4'-O-glucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00008208"
+        ],
+        "wikidata": [
+          "Q23461976"
+        ],
+        "inchi": [
+          "KSDSYIXRWHRPMN-FRRSERDHSA-N"
+        ],
+        "pubchem": [
+          "139031043"
+        ]
+      }
+    },
+    "position": {
+      "x": 1531.7220535875572,
+      "y": 234.05606412942944
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "bb3b2",
+      "source": "da874",
+      "target": "a6237",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "bc23b",
+      "label": "K 3-(6'-Glu)Glu-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005234"
+        ],
+        "wikidata": [
+          "Q23417271"
+        ],
+        "chebi": [
+          "133218"
+        ],
+        "inchi": [
+          "QFSDWLPMRWDFID-CSNYLUTCSA-N"
+        ],
+        "pubchem": [
+          "10652679"
+        ],
+        "hmdb": [
+          "HMDB0302884"
+        ],
+        "lipidmaps": [
+          "LMPK12111762"
+        ]
+      }
+    },
+    "position": {
+      "x": 52.819746173089925,
+      "y": 419.9957906661767
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "bc3fb",
+      "source": "a7d2b",
+      "target": "ece14",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R04276"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "bc59b",
+      "source": "ececf",
+      "target": "d16a7",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "bc918",
+      "label": "Scutellarein",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00003834"
+        ],
+        "wikidata": [
+          "Q2058351"
+        ],
+        "chebi": [
+          "9062"
+        ],
+        "inchi": [
+          "JVXZRQGOGOXCEC-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5281697"
+        ],
+        "chemspider": [
+          "4445014"
+        ],
+        "kegg": [
+          "C10184"
+        ],
+        "lipidmaps": [
+          "LMPK12111160"
+        ]
+      }
+    },
+    "position": {
+      "x": 2022.308136132871,
+      "y": 161.60715755783136
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "bd619",
+      "source": "b45d4",
+      "target": "d0ac1",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "bdcf6",
+      "label": "A1",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006673"
+        ],
+        "wikidata": [
+          "Q23419061"
+        ],
+        "inchi": [
+          "OLBLWNPOURNBCY-QFEPKXLGSA-O"
+        ],
+        "pubchem": [
+          "139031039"
+        ],
+        "chemspider": [
+          "34998497"
+        ],
+        "kegg": [
+          "C20493"
+        ]
+      }
+    },
+    "position": {
+      "x": 947.7712074262148,
+      "y": 881.796544851478
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "bde2d",
+      "source": "bc918",
+      "target": "e9e74",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "be569",
+      "label": "Dihydrokaempferol",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "kegg": [
+          "C00974"
+        ],
+        "kegg.compound": [
+          "C00974"
+        ],
+        "wikidata": [
+          "Q956217"
+        ],
+        "chebi": [
+          "15401"
+        ],
+        "inchi": [
+          "PADQINQHPQKXNL-LSDHHAIUSA-N"
+        ],
+        "pubchem": [
+          "122850"
+        ],
+        "chemspider": [
+          "109514"
+        ],
+        "hmdb": [
+          "HMDB0030847"
+        ],
+        "lipidmaps": [
+          "LMPK12140720"
+        ],
+        "kegg_compound": [
+          "C00974"
+        ]
+      }
+    },
+    "position": {
+      "x": 994.0408082086442,
+      "y": 161.60715755783133
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "be9c8",
+      "source": "d16a7",
+      "target": "b33f0",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "beca4",
+      "source": "daec9",
+      "target": "eed7d",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c1452",
+      "label": "Procyanidin C1",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00009098"
+        ],
+        "wikidata": [
+          "Q7247556"
+        ],
+        "chebi": [
+          "75643"
+        ],
+        "inchi": [
+          "MOJZMWJRUKIQGL-XILRTYJMSA-N"
+        ],
+        "pubchem": [
+          "169853"
+        ],
+        "chemspider": [
+          "148540"
+        ],
+        "hmdb": [
+          "HMDB0038370"
+        ],
+        "kegg": [
+          "C17624"
+        ]
+      }
+    },
+    "position": {
+      "x": 1444.2779831568278,
+      "y": 834.8667201439488
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c1776",
+      "source": "cf0db",
+      "target": "a1dad",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R08021"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c1f09",
+      "source": "db4d9",
+      "target": "ca2cc",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c1f9c",
+      "label": "C 3-(6'-Cou)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006800"
+        ],
+        "wikidata": [
+          "Q23048924"
+        ],
+        "chebi": [
+          "131451",
+          "29560"
+        ],
+        "inchi": [
+          "QAOBEOXFSUJDJL-SHPGVJHPSA-O"
+        ],
+        "pubchem": [
+          "5282067",
+          "118797966"
+        ],
+        "kegg": [
+          "C12095"
+        ],
+        "lipidmaps": [
+          "LMPK12010139"
+        ]
+      }
+    },
+    "position": {
+      "x": 1007.484203486952,
+      "y": 713.3887063558756
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c2051",
+      "source": "aadd2",
+      "target": "c5ee3",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c2463",
+      "source": "f38a4",
+      "target": "f2821",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c26c6",
+      "label": "6-Hydroxluteolin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00003884"
+        ],
+        "wikidata": [
+          "Q23055354"
+        ],
+        "chebi": [
+          "2197"
+        ],
+        "inchi": [
+          "VYAKIUWQLHRZGK-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5281642"
+        ],
+        "chemspider": [
+          "4444961"
+        ],
+        "hmdb": [
+          "HMDB0036632"
+        ],
+        "kegg": [
+          "C10072"
+        ],
+        "lipidmaps": [
+          "LMPK12111229"
+        ]
+      }
+    },
+    "position": {
+      "x": 2012.2085944642918,
+      "y": 419.99579066617673
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c30a3",
+      "label": "Leucocyanidin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007235"
+        ],
+        "wikidata": [
+          "Q8085718"
+        ],
+        "chebi": [
+          "11412"
+        ],
+        "inchi": [
+          "SBZWTSHAFILOTE-SOUVJXGZSA-N"
+        ],
+        "pubchem": [
+          "440833"
+        ],
+        "chemspider": [
+          "389677"
+        ],
+        "kegg": [
+          "C05906"
+        ],
+        "lipidmaps": [
+          "LMPK12020203"
+        ]
+      }
+    },
+    "position": {
+      "x": 1003.867885956633,
+      "y": 491.3309071815123
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c3908",
+      "label": "A4",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007656"
+        ],
+        "wikidata": [
+          "Q23464998"
+        ],
+        "inchi": [
+          "HKRACDHMWOGFKJ-BPVIEZTISA-O"
+        ],
+        "pubchem": [
+          "163188695",
+          "44256800"
+        ]
+      }
+    },
+    "position": {
+      "x": 1134.286001515514,
+      "y": 881.796544851478
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c3a67",
+      "source": "bdcf6",
+      "target": "c7039",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c3c2f",
+      "source": "a8fa1",
+      "target": "b7e64",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c3ecd",
+      "source": "c6404",
+      "target": "ed332",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03574"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c43af",
+      "source": "ece14",
+      "target": "e5c14",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06541"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c4929",
+      "label": "CHI",
+      "gpmlType": "DataNode",
+      "wpType": "GeneProduct",
+      "type": "GeneProduct",
+      "xrefs": {
+        "kegg_gene": [
+          "ath:AT3G55120"
+        ],
+        "kegg.genes": [
+          "ath:AT5G05270"
+        ],
+        "kegg_genes": [
+          "ath:AT3G55120"
+        ]
+      }
+    },
+    "position": {
+      "x": 8,
+      "y": 8
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c4f0d",
+      "source": "c7039",
+      "target": "a0771",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c4ffc",
+      "source": "f82fe",
+      "target": "c7039",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c52c0",
+      "source": "fced9",
+      "target": "d2186",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c57cd",
+      "source": "c26c6",
+      "target": "e4f2e",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c58b0",
+      "label": "K 3-(2'-Rha)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005167"
+        ],
+        "wikidata": [
+          "Q23069136"
+        ],
+        "inchi": [
+          "OHOBPOYHROOXEI-UWBNHKQISA-N"
+        ],
+        "pubchem": [
+          "139031091"
+        ]
+      }
+    },
+    "position": {
+      "x": 318.8137381001469,
+      "y": 370.56502832835577
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c5a85",
+      "source": "a1dad",
+      "target": "cba42",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R08022"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c5ea1",
+      "label": "I 3-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005526"
+        ],
+        "wikidata": [
+          "Q23049767"
+        ],
+        "inchi": [
+          "UXXAEVMOIUAYQT-KEXGRDQZSA-N"
+        ],
+        "pubchem": [
+          "139031076"
+        ]
+      }
+    },
+    "position": {
+      "x": 560.3872620662358,
+      "y": 713.7465295116649
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c5ee3",
+      "label": "I 3-Ara-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005551"
+        ],
+        "wikidata": [
+          "Q23049759"
+        ],
+        "inchi": [
+          "UIXIEXAWTSBGCB-PLZSGXCYSA-N"
+        ],
+        "pubchem": [
+          "139031075"
+        ]
+      }
+    },
+    "position": {
+      "x": 723.6790851842768,
+      "y": 771.1263588857767
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c6404",
+      "label": "Apigenin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00003817"
+        ],
+        "wikidata": [
+          "Q424567"
+        ],
+        "chebi": [
+          "18388"
+        ],
+        "inchi": [
+          "KZNIFHPLKGYRTM-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5280443"
+        ],
+        "chemspider": [
+          "4444100"
+        ],
+        "hmdb": [
+          "HMDB0002124"
+        ],
+        "kegg": [
+          "C01477"
+        ],
+        "lipidmaps": [
+          "LMPK12110005"
+        ]
+      }
+    },
+    "position": {
+      "x": 1889.381237981346,
+      "y": 162.5738674756582
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c7039",
+      "label": "A3",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006836"
+        ],
+        "wikidata": [
+          "Q23419072"
+        ],
+        "inchi": [
+          "JSYDBTWJIIAZPU-OMLFMJQWSA-O"
+        ],
+        "pubchem": [
+          "139031040"
+        ],
+        "lipidmaps": [
+          "LMPK12010169"
+        ]
+      }
+    },
+    "position": {
+      "x": 1134.2860015155143,
+      "y": 834.8667201439488
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c76d4",
+      "source": "afef1",
+      "target": "abb00",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c7e8b",
+      "source": "b1b0b",
+      "target": "c9560",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c7f84",
+      "source": "a364d",
+      "target": "ececf",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c89ff",
+      "source": "a2d6e",
+      "target": "a8fa1",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c9560",
+      "label": "5,7-Dimethoxyapigenin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "pubchem": [
+          "161172"
+        ],
+        "pubchem.compound": [
+          "161172"
+        ],
+        "wikidata": [
+          "Q61329131"
+        ],
+        "inchi": [
+          "ARICZLGTUHLTFQ-UHFFFAOYSA-N"
+        ],
+        "pubchem-compound": [
+          "161172"
+        ]
+      }
+    },
+    "position": {
+      "x": 1540.1332585002185,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "c9828",
+      "source": "f2b8b",
+      "target": "aec87",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "c9afb",
+      "label": "C 3-(2'-Xyl-6'-Cou)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006802"
+        ],
+        "wikidata": [
+          "Q23055383"
+        ],
+        "inchi": [
+          "KMIJRKZNTFVLAI-GFRIAPEESA-O"
+        ],
+        "pubchem": [
+          "139031086"
+        ]
+      }
+    },
+    "position": {
+      "x": 1094.1592098947867,
+      "y": 771.1263588857768
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ca2cc",
+      "label": "Luteolin 3',7-diglucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004290"
+        ],
+        "wikidata": [
+          "Q63392112"
+        ],
+        "chebi": [
+          "167535"
+        ],
+        "inchi": [
+          "BISZYPSIZGKOFA-IPOZFMEPSA-N"
+        ],
+        "pubchem": [
+          "5490298"
+        ]
+      }
+    },
+    "position": {
+      "x": 1990.2085944642918,
+      "y": 580.0208363055327
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "cabfb",
+      "source": "be569",
+      "target": "a7d2b",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03123"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cba42",
+      "label": "Hesperetin 7-neohesperidoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000987"
+        ],
+        "wikidata": [
+          "Q18609455"
+        ],
+        "chebi": [
+          "59016"
+        ],
+        "inchi": [
+          "ARGKVCXINMKCAZ-UZRWAPQLSA-N"
+        ],
+        "pubchem": [
+          "442439"
+        ],
+        "chemspider": [
+          "390879"
+        ],
+        "hmdb": [
+          "HMDB0030748"
+        ],
+        "kegg": [
+          "C09806"
+        ],
+        "lipidmaps": [
+          "LMPK12140452"
+        ]
+      }
+    },
+    "position": {
+      "x": 1406.8294949149467,
+      "y": 627.3134599197024
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "cbdcc",
+      "source": "b8626",
+      "target": "bb391",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R08006"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cc139",
+      "label": "CHI",
+      "gpmlType": "DataNode",
+      "wpType": "GeneProduct",
+      "type": "GeneProduct",
+      "xrefs": {
+        "kegg_gene": [
+          "ath:AT5G05270"
+        ],
+        "kegg.genes": [
+          "ath:AT5G05270"
+        ],
+        "kegg_genes": [
+          "ath:AT5G05270"
+        ]
+      }
+    },
+    "position": {
+      "x": 8,
+      "y": 48.0000000000004
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "cc455",
+      "source": "f280b",
+      "target": "b8626",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02446"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "cc81c",
+      "source": "a346c",
+      "target": "ff1e2",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R07878"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cca9e",
+      "label": "Kaempferol",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "kegg": [
+          "C05903"
+        ],
+        "kegg.compound": [
+          "C05903"
+        ],
+        "wikidata": [
+          "Q393336"
+        ],
+        "chebi": [
+          "28499"
+        ],
+        "inchi": [
+          "IYRMWMYZSQPJKC-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5280863"
+        ],
+        "chemspider": [
+          "4444395"
+        ],
+        "hmdb": [
+          "HMDB0005801"
+        ],
+        "lipidmaps": [
+          "LMPK12110003"
+        ],
+        "kegg_compound": [
+          "C05903"
+        ]
+      }
+    },
+    "position": {
+      "x": 543.7507283693132,
+      "y": 165.30067370045552
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "cd31f",
+      "source": "ffadd",
+      "target": "c30a3",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03636"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "cda6c",
+      "source": "f515d",
+      "target": "ececf",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ce2d1",
+      "source": "e1a28",
+      "target": "e6309",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R09804"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ceb59",
+      "label": "Catechin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000947"
+        ],
+        "wikidata": [
+          "Q415007"
+        ],
+        "chebi": [
+          "15600"
+        ],
+        "inchi": [
+          "PFTAWBLQPZVEMU-DZGCQCFKSA-N"
+        ],
+        "pubchem": [
+          "9064"
+        ],
+        "chemspider": [
+          "8711"
+        ],
+        "hmdb": [
+          "HMDB0002780"
+        ],
+        "kegg": [
+          "C06562"
+        ],
+        "lipidmaps": [
+          "LMPK12020001"
+        ]
+      }
+    },
+    "position": {
+      "x": 1126.3659437636406,
+      "y": 491.3309071815123
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cf0db",
+      "label": "Hesperetin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000968"
+        ],
+        "wikidata": [
+          "Q411310"
+        ],
+        "chebi": [
+          "28230"
+        ],
+        "inchi": [
+          "AIONOLUJZLIMTK-AWEZNQCLSA-N"
+        ],
+        "pubchem": [
+          "72281"
+        ],
+        "chemspider": [
+          "65234"
+        ],
+        "hmdb": [
+          "HMDB0005782"
+        ],
+        "kegg": [
+          "C01709"
+        ],
+        "lipidmaps": [
+          "LMPK12140003"
+        ]
+      }
+    },
+    "position": {
+      "x": 1450.6609814762742,
+      "y": 491.33090718151254
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d0ac1",
+      "label": "Homoeriodictyol",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000969"
+        ],
+        "chebi": [
+          "74960"
+        ],
+        "kegg": [
+          "C09756"
+        ],
+        "lipidmaps": [
+          "LMPK12140449"
+        ]
+      }
+    },
+    "position": {
+      "x": 1557.4771620406184,
+      "y": 492.6914894883437
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d0dbd",
+      "source": "a8fa1",
+      "target": "af8ad",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d1034",
+      "source": "ac1b7",
+      "target": "fc66e",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d16a7",
+      "label": "A8",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007659"
+        ],
+        "wikidata": [
+          "Q23462702"
+        ],
+        "inchi": [
+          "NXTHTMNXJOEVLR-JHBYNAJCSA-O"
+        ],
+        "pubchem": [
+          "163191928"
+        ]
+      }
+    },
+    "position": {
+      "x": 1233.8283818222649,
+      "y": 934.3909081294206
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d1dea",
+      "source": "aa094",
+      "target": "d5464",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d1df7",
+      "label": "Hesperidin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000970"
+        ],
+        "kegg": [
+          "C09755"
+        ]
+      }
+    },
+    "position": {
+      "x": 1566.7716749185572,
+      "y": 580.0208363055311
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d1f45",
+      "label": "A9",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006838"
+        ],
+        "wikidata": [
+          "Q23419083"
+        ],
+        "inchi": [
+          "MAKMINQMKSULBY-HHNMOXDYSA-O"
+        ]
+      }
+    },
+    "position": {
+      "x": 1312.7926826052922,
+      "y": 981.676781463391
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d2186",
+      "label": "[Epicatechin-(4beta->8)]4-epicatechin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00009109"
+        ],
+        "wikidata": [
+          "Q23048736"
+        ],
+        "chebi": [
+          "81228"
+        ],
+        "inchi": [
+          "QRFZGLTZLZZHCM-NWYMYRDLSA-N"
+        ],
+        "pubchem": [
+          "16129741"
+        ],
+        "chemspider": [
+          "10272880"
+        ],
+        "hmdb": [
+          "HMDB0037659"
+        ],
+        "kegg": [
+          "C17626"
+        ]
+      }
+    },
+    "position": {
+      "x": 1389.7779831568278,
+      "y": 934.3909081294206
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d22b3",
+      "label": "Diosmetin 7-glucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004357"
+        ],
+        "wikidata": [
+          "Q23055362"
+        ],
+        "chebi": [
+          "188752"
+        ],
+        "inchi": [
+          "WKUHPOMCLBLCOV-MIUGBVLSSA-N"
+        ],
+        "pubchem": [
+          "11016019"
+        ],
+        "lipidmaps": [
+          "LMPK12110810"
+        ]
+      }
+    },
+    "position": {
+      "x": 1709.6346480960638,
+      "y": 580.0208363055325
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d37a4",
+      "source": "c1452",
+      "target": "fced9",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d43ea",
+      "source": "b36ce",
+      "target": "e0fe2",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d43ff",
+      "source": "da874",
+      "target": "f7418",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02158"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d4679",
+      "source": "c30a3",
+      "target": "ceb59",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06532"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d4954",
+      "source": "a2d6e",
+      "target": "aadd2",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d4e46",
+      "source": "daec9",
+      "target": "d6ef9",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d4f47",
+      "source": "f7418",
+      "target": "a6abf",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d5464",
+      "label": "Apigenin 7,4'-dimethyl ether",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00001016"
+        ],
+        "wikidata": [
+          "Q23050245"
+        ],
+        "chebi": [
+          "2769"
+        ],
+        "inchi": [
+          "LZERJKGWTQYMBB-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5281601"
+        ],
+        "chemspider": [
+          "4444920"
+        ],
+        "hmdb": [
+          "HMDB0132454"
+        ],
+        "kegg": [
+          "C10019"
+        ],
+        "lipidmaps": [
+          "LMPK12111029"
+        ]
+      }
+    },
+    "position": {
+      "x": 1699.5865672827567,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d5752",
+      "label": "Q 3-(6'-Rha)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005413"
+        ],
+        "wikidata": [
+          "Q407857"
+        ],
+        "chebi": [
+          "28527"
+        ],
+        "inchi": [
+          "IKGXIBQEEMLURG-NVPNHPEKSA-N"
+        ],
+        "pubchem": [
+          "5280805"
+        ],
+        "chemspider": [
+          "4444362"
+        ],
+        "hmdb": [
+          "HMDB0003249"
+        ],
+        "kegg": [
+          "C05625"
+        ],
+        "lipidmaps": [
+          "LMPK12112098"
+        ]
+      }
+    },
+    "position": {
+      "x": 72.57699879338114,
+      "y": 580.0208363055326
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d5811",
+      "label": "Afzelechin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000937"
+        ],
+        "wikidata": [
+          "Q23068576"
+        ],
+        "chebi": [
+          "2507"
+        ],
+        "inchi": [
+          "RSYUFYQTACJFML-DZGCQCFKSA-N"
+        ],
+        "pubchem": [
+          "442154"
+        ],
+        "chemspider": [
+          "390672"
+        ],
+        "kegg": [
+          "C09320"
+        ],
+        "lipidmaps": [
+          "LMPK12020035"
+        ]
+      }
+    },
+    "position": {
+      "x": 1216.8630799777866,
+      "y": 234.5533976883221
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d68c3",
+      "label": "Diosmetin 7-rutinoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004362"
+        ],
+        "wikidata": [
+          "Q2607865"
+        ],
+        "chebi": [
+          "4631"
+        ],
+        "inchi": [
+          "GZSOSUNBTXMUFQ-YFAPSIMESA-N"
+        ],
+        "pubchem": [
+          "5281613"
+        ],
+        "chemspider": [
+          "4444932"
+        ],
+        "kegg": [
+          "C10039"
+        ],
+        "lipidmaps": [
+          "LMPK12110814",
+          "LMPK12110819"
+        ]
+      }
+    },
+    "position": {
+      "x": 1705.5082101613962,
+      "y": 627.3134599197026
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d697d",
+      "source": "cca9e",
+      "target": "da874",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06538"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d6ef9",
+      "label": "K 3-(6'-Cou)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005851"
+        ]
+      }
+    },
+    "position": {
+      "x": 68.46588467259289,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d7ceb",
+      "label": "A10",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007661"
+        ],
+        "wikidata": [
+          "Q23462550"
+        ],
+        "inchi": [
+          "QPUCGPFRKWVURQ-SLWMWEMUSA-O"
+        ],
+        "pubchem": [
+          "163195463"
+        ]
+      }
+    },
+    "position": {
+      "x": 1351.005863840434,
+      "y": 834.8667201439488
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d7dc9",
+      "label": "Apigenin 7-rutinoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004156"
+        ],
+        "wikidata": [
+          "Q23055215"
+        ],
+        "inchi": [
+          "FKIYLTVJPDLUDL-SLNHTJRHSA-N"
+        ],
+        "pubchem": [
+          "9851181"
+        ],
+        "chemspider": [
+          "8026894"
+        ],
+        "hmdb": [
+          "HMDB0037349"
+        ]
+      }
+    },
+    "position": {
+      "x": 2152.212980219716,
+      "y": 234.55339768832215
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d7dd6",
+      "source": "b45d4",
+      "target": "ffadd",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03640"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d7df3",
+      "label": "Luteolin 4'-glucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004276"
+        ],
+        "wikidata": [
+          "Q23055213"
+        ],
+        "inchi": [
+          "UHNXUSWGOJMEFO-LELZANKISA-N"
+        ],
+        "pubchem": [
+          "51521836"
+        ]
+      }
+    },
+    "position": {
+      "x": 1867.7875161289207,
+      "y": 489.25190510251025
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "d7ee3",
+      "label": "Prunin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000998"
+        ],
+        "wikidata": [
+          "Q15424791"
+        ],
+        "chebi": [
+          "28327"
+        ],
+        "inchi": [
+          "DLIKSSGEMUFQOK-SFTVRKLSSA-N"
+        ],
+        "pubchem": [
+          "92794"
+        ],
+        "chemspider": [
+          "83766"
+        ],
+        "kegg": [
+          "C09099"
+        ],
+        "lipidmaps": [
+          "LMPK12140237"
+        ]
+      }
+    },
+    "position": {
+      "x": 1303.5834647732745,
+      "y": 234.55339768832215
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d9091",
+      "source": "de377",
+      "target": "bdcf6",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R10294"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "d9109",
+      "source": "aa346",
+      "target": "daac5",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "da73e",
+      "label": "Luteolin 4',7-diglucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004294"
+        ],
+        "wikidata": [
+          "Q23055207"
+        ],
+        "inchi": [
+          "CFVDPAXOTMTQCU-WIFGXNHISA-N"
+        ],
+        "pubchem": [
+          "139031081"
+        ]
+      }
+    },
+    "position": {
+      "x": 1859.2136730533907,
+      "y": 577.9418342265304
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "da874",
+      "label": "Quercetin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004631"
+        ],
+        "wikidata": [
+          "Q409478"
+        ],
+        "chebi": [
+          "16243"
+        ],
+        "inchi": [
+          "REFJWTPEDVJJIY-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5280343"
+        ],
+        "chemspider": [
+          "4444051"
+        ],
+        "hmdb": [
+          "HMDB0005794"
+        ],
+        "kegg": [
+          "C00389"
+        ],
+        "lipidmaps": [
+          "LMPK12110004"
+        ]
+      }
+    },
+    "position": {
+      "x": 555.2507283693136,
+      "y": 414.97388486113846
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "da8bd",
+      "source": "da874",
+      "target": "dc180",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "da8f3",
+      "source": "c5ea1",
+      "target": "db6d2",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "daa3b",
+      "source": "b8626",
+      "target": "be569",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R02444"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "daac5",
+      "label": "K 3-Gal-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005178"
+        ],
+        "wikidata": [
+          "Q23049792"
+        ],
+        "inchi": [
+          "JYXSWDCPHRTYGU-HMZYCSBUSA-N"
+        ],
+        "pubchem": [
+          "139031079"
+        ]
+      }
+    },
+    "position": {
+      "x": 832.2402553565046,
+      "y": 194.0849942090843
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "dad4b",
+      "source": "c58b0",
+      "target": "f84e2",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "dae94",
+      "source": "a3ad8",
+      "target": "d22b3",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "daec9",
+      "label": "K 3-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005138"
+        ],
+        "wikidata": [
+          "Q4811191"
+        ],
+        "chebi": [
+          "30200"
+        ],
+        "inchi": [
+          "JPUKWEQWGBDDQB-QSOFNFLRSA-N"
+        ],
+        "pubchem": [
+          "5282102"
+        ],
+        "chemspider": [
+          "4445311"
+        ],
+        "hmdb": [
+          "HMDB0037429"
+        ],
+        "kegg": [
+          "C12249"
+        ],
+        "lipidmaps": [
+          "LMPK12111725"
+        ]
+      }
+    },
+    "position": {
+      "x": 217.80061037009185,
+      "y": 340.12215689447135
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "dafa9",
+      "label": "Q 3-(2'-Rha)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005412"
+        ],
+        "wikidata": [
+          "Q23466211"
+        ],
+        "inchi": [
+          "FYBMGZSDYDNBFX-YLOQOVPCSA-N"
+        ],
+        "pubchem": [
+          "139031045"
+        ]
+      }
+    },
+    "position": {
+      "x": 322.9329139637839,
+      "y": 491.33090718151254
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "db171",
+      "label": "p-Coumaroyl-CoA",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "kegg": [
+          "C00223"
+        ],
+        "kegg.compound": [
+          "C00223"
+        ],
+        "wikidata": [
+          "Q2998866"
+        ],
+        "chebi": [
+          "85531"
+        ],
+        "inchi": [
+          "DMZOKBALNZWDKI-MATMFAIHSA-N"
+        ],
+        "pubchem": [
+          "6440013"
+        ],
+        "chemspider": [
+          "4944344"
+        ],
+        "hmdb": [
+          "HMDB0060153"
+        ],
+        "kegg_compound": [
+          "C00223"
+        ]
+      }
+    },
+    "position": {
+      "x": 1439.5350951617356,
+      "y": 36.045039100636906
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "db4d9",
+      "label": "Luteolin 7-glucoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004266"
+        ],
+        "wikidata": [
+          "Q2317288"
+        ],
+        "chebi": [
+          "27994"
+        ],
+        "inchi": [
+          "PEFNSGRTCBGNAN-QNDFHXLGSA-N"
+        ],
+        "pubchem": [
+          "5280637"
+        ],
+        "chemspider": [
+          "4444241"
+        ],
+        "hmdb": [
+          "HMDB0035588"
+        ],
+        "kegg": [
+          "C03951"
+        ],
+        "lipidmaps": [
+          "LMPK12110642",
+          "LMPK12113403"
+        ]
+      }
+    },
+    "position": {
+      "x": 2002.7435738881604,
+      "y": 491.3309071815123
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "db6d2",
+      "label": "I 3-Rha-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005559"
+        ],
+        "wikidata": [
+          "Q23049774"
+        ],
+        "inchi": [
+          "UNMZJSVCTCKOEC-QPPFPMOSSA-N"
+        ],
+        "pubchem": [
+          "139031078"
+        ]
+      }
+    },
+    "position": {
+      "x": 544.975841195058,
+      "y": 771.126358885777
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "dba48",
+      "source": "f7418",
+      "target": "d5752",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R04900"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "dbff5",
+      "source": "bdcf6",
+      "target": "f515d",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "dc180",
+      "label": "Q 7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005382"
+        ],
+        "wikidata": [
+          "Q23069184"
+        ],
+        "chebi": [
+          "28529"
+        ],
+        "inchi": [
+          "BBFYUPYFXSSMNV-HMGRVEAOSA-N"
+        ],
+        "pubchem": [
+          "5282160"
+        ],
+        "chemspider": [
+          "4445356"
+        ],
+        "hmdb": [
+          "HMDB0302151"
+        ],
+        "kegg": [
+          "C12639"
+        ],
+        "lipidmaps": [
+          "LMPK12112179"
+        ]
+      }
+    },
+    "position": {
+      "x": 455.89290528636093,
+      "y": 419.9957906661767
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ddd03",
+      "label": "K 7-(2'-Rha)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005197"
+        ],
+        "wikidata": [
+          "Q23415669"
+        ],
+        "inchi": [
+          "ZEJXENDZTYVXDP-UYHRIDIXSA-N"
+        ],
+        "pubchem": [
+          "139031033"
+        ]
+      }
+    },
+    "position": {
+      "x": 198.36179235850693,
+      "y": 162.10715755783136
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "de377",
+      "label": "C 3-Glc-2'-Xyl",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006657"
+        ],
+        "wikidata": [
+          "Q23465648"
+        ],
+        "chebi": [
+          "74811"
+        ],
+        "inchi": [
+          "ZPPQIOUITZSYAO-AOBOYTTNSA-O"
+        ],
+        "pubchem": [
+          "6602304"
+        ],
+        "chemspider": [
+          "5034738"
+        ],
+        "kegg": [
+          "C20490"
+        ],
+        "lipidmaps": [
+          "LMPK12010114"
+        ]
+      }
+    },
+    "position": {
+      "x": 929.6951324537763,
+      "y": 771.1263588857768
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "deb08",
+      "source": "cca9e",
+      "target": "aa346",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06808"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "df9ea",
+      "source": "ee94c",
+      "target": "cc455",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "dfe8d",
+      "source": "f2b8b",
+      "target": "e673f",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e0ddf",
+      "source": "daec9",
+      "target": "edf06",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e0ee1",
+      "source": "a0771",
+      "target": "d7ceb",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e0fe2",
+      "label": "K 3-(6'-(2''-Rha)Rha)Gal",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005202"
+        ],
+        "wikidata": [
+          "Q23049821"
+        ],
+        "inchi": [
+          "UYVBMGULWGRDQT-KAKPADANSA-N"
+        ],
+        "pubchem": [
+          "139031080"
+        ]
+      }
+    },
+    "position": {
+      "x": 811.9700085639017,
+      "y": 344.3755861254635
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e103b",
+      "label": "CHS",
+      "gpmlType": "DataNode",
+      "wpType": "GeneProduct",
+      "type": "GeneProduct",
+      "xrefs": {
+        "kegg_gene": [
+          "ath:AT5G13930"
+        ],
+        "kegg.genes": [
+          "ath:AT5G13930"
+        ],
+        "kegg_genes": [
+          "ath:AT5G13930"
+        ]
+      }
+    },
+    "position": {
+      "x": 1307.7926826052917,
+      "y": 59.505554089790536
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e1a28",
+      "label": "Q 3-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005374"
+        ],
+        "wikidata": [
+          "Q1649777"
+        ],
+        "chebi": [
+          "17558"
+        ],
+        "inchi": [
+          "OXGUCUVFOIWWQJ-HQBVPOQASA-N"
+        ],
+        "pubchem": [
+          "5280459"
+        ],
+        "chemspider": [
+          "4444112"
+        ],
+        "hmdb": [
+          "HMDB0033751"
+        ],
+        "kegg": [
+          "C01750"
+        ],
+        "lipidmaps": [
+          "LMPK12112171"
+        ]
+      }
+    },
+    "position": {
+      "x": 632.4824593116217,
+      "y": 492.3149118085636
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e27f5",
+      "source": "c1f9c",
+      "target": "f82fe",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06547"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e2a60",
+      "source": "f7418",
+      "target": "f2b8b",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e3cde",
+      "source": "e103b",
+      "target": "ed830",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e4069",
+      "label": "K 3-(6'-Rha)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005169"
+        ],
+        "wikidata": [
+          "Q23058965"
+        ],
+        "chebi": [
+          "69657"
+        ],
+        "inchi": [
+          "RTATXGUCZHCSNG-QHWHWDPRSA-N"
+        ],
+        "pubchem": [
+          "5318767"
+        ],
+        "chemspider": [
+          "4477257"
+        ],
+        "hmdb": [
+          "HMDB0302426"
+        ],
+        "lipidmaps": [
+          "LMPK12111734"
+        ]
+      }
+    },
+    "position": {
+      "x": 438.98191153490757,
+      "y": 345.55529946614723
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e4e27",
+      "source": "ed332",
+      "target": "d7dc9",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e4f2e",
+      "label": "6-Methoxyluteolin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00003885"
+        ],
+        "wikidata": [
+          "Q3347189"
+        ],
+        "inchi": [
+          "FHHSEFRSDKWJKJ-UHFFFAOYSA-N"
+        ],
+        "pubchem": [
+          "5317284"
+        ],
+        "chemspider": [
+          "4476172"
+        ],
+        "lipidmaps": [
+          "LMPK12111230"
+        ]
+      }
+    },
+    "position": {
+      "x": 2159.5290530028205,
+      "y": 419.99579066617673
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e53fd",
+      "source": "afef1",
+      "target": "fc66e",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e5c0b",
+      "source": "c6404",
+      "target": "bc918",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e5c14",
+      "label": "Epiafzelechin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00008805"
+        ],
+        "wikidata": [
+          "Q23048270"
+        ],
+        "inchi": [
+          "RSYUFYQTACJFML-DDOUFSBJNA-N"
+        ],
+        "kegg": [
+          "C12128"
+        ]
+      }
+    },
+    "position": {
+      "x": 1208.8283818222646,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e6256",
+      "source": "daec9",
+      "target": "c58b0",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e6309",
+      "label": "Q 3-Rha-7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005431"
+        ],
+        "wikidata": [
+          "Q23418549"
+        ],
+        "chebi": [
+          "133244"
+        ],
+        "inchi": [
+          "MCTZMXCUYPDYNE-AHHFARBASA-N"
+        ],
+        "pubchem": [
+          "6325870"
+        ],
+        "kegg": [
+          "C19796"
+        ],
+        "lipidmaps": [
+          "LMPK12112199"
+        ]
+      }
+    },
+    "position": {
+      "x": 717.9778023925887,
+      "y": 580.0208363055326
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e673f",
+      "label": "Q 3-(6'-Rha)Glc-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005473"
+        ]
+      }
+    },
+    "position": {
+      "x": 56.65174071291552,
+      "y": 627.3134599197025
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e9b4e",
+      "source": "bdcf6",
+      "target": "c3908",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e9c5e",
+      "source": "c7039",
+      "target": "b7826",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "e9e74",
+      "label": "Scutellarein 7-glucuronide",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004221"
+        ],
+        "wikidata": [
+          "Q410712"
+        ],
+        "chebi": [
+          "61278"
+        ],
+        "inchi": [
+          "DJSISFGPUUYILV-ZFORQUDYSA-N"
+        ],
+        "pubchem": [
+          "185617"
+        ],
+        "chemspider": [
+          "161366"
+        ]
+      }
+    },
+    "position": {
+      "x": 2139.9660377825867,
+      "y": 161.60715755783136
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e9f3f",
+      "source": "edf06",
+      "target": "f84e2",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "eafa3",
+      "label": "CHI",
+      "gpmlType": "DataNode",
+      "wpType": "GeneProduct",
+      "type": "GeneProduct",
+      "xrefs": {
+        "kegg_gene": [
+          "ath:AT5G66220"
+        ],
+        "kegg.genes": [
+          "ath:AT5G05270"
+        ],
+        "kegg_genes": [
+          "ath:AT5G66220"
+        ]
+      }
+    },
+    "position": {
+      "x": 8,
+      "y": 28.985221674876925
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ebdf8",
+      "label": "C 3-Glc-5-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00002378"
+        ],
+        "wikidata": [
+          "Q21099632"
+        ],
+        "chebi": [
+          "3978"
+        ],
+        "inchi": [
+          "RDFLLVCQYHQOBU-ZOTFFYTFSA-O"
+        ],
+        "pubchem": [
+          "441688"
+        ],
+        "chemspider": [
+          "390301"
+        ],
+        "hmdb": [
+          "HMDB0304306"
+        ],
+        "kegg": [
+          "C08639"
+        ],
+        "lipidmaps": [
+          "LMPK12010113"
+        ]
+      }
+    },
+    "position": {
+      "x": 842.5487378821833,
+      "y": 771.1263588857768
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ece14",
+      "label": "Pelargonidin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007232"
+        ],
+        "wikidata": [
+          "Q2522451"
+        ],
+        "chebi": [
+          "25863"
+        ],
+        "inchi": [
+          "XVFMGWDSJLBXDZ-UHFFFAOYSA-O"
+        ],
+        "pubchem": [
+          "440832"
+        ],
+        "chemspider": [
+          "389676"
+        ],
+        "hmdb": [
+          "HMDB0003263"
+        ],
+        "kegg": [
+          "C05904"
+        ],
+        "lipidmaps": [
+          "LMPK12010003"
+        ]
+      }
+    },
+    "position": {
+      "x": 1109.286001515514,
+      "y": 279.48912431418944
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ececf",
+      "label": "A5",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007657"
+        ],
+        "wikidata": [
+          "Q23464928"
+        ],
+        "inchi": [
+          "JKGXHHXZZLNEGD-XUYFGVRGSA-O"
+        ],
+        "pubchem": [
+          "163190798"
+        ]
+      }
+    },
+    "position": {
+      "x": 1134.286001515514,
+      "y": 981.676781463391
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ed09a",
+      "label": "Cyanidin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "kegg": [
+          "C05905"
+        ],
+        "kegg.compound": [
+          "C05905"
+        ],
+        "wikidata": [
+          "Q417606"
+        ],
+        "chebi": [
+          "27843"
+        ],
+        "inchi": [
+          "VEVZSMAEJFVWIL-UHFFFAOYSA-O"
+        ],
+        "pubchem": [
+          "128861"
+        ],
+        "chemspider": [
+          "114193"
+        ],
+        "hmdb": [
+          "HMDB0002708"
+        ],
+        "lipidmaps": [
+          "LMPK12010002"
+        ],
+        "kegg_compound": [
+          "C05905"
+        ]
+      }
+    },
+    "position": {
+      "x": 1017.3678859566335,
+      "y": 627.3134599197024
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ed332",
+      "label": "Cosmosiin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00001017"
+        ],
+        "wikidata": [
+          "Q2858304"
+        ],
+        "chebi": [
+          "16778"
+        ],
+        "inchi": [
+          "KMOUJOKENFFTPU-QNDFHXLGSA-N"
+        ],
+        "pubchem": [
+          "5280704"
+        ],
+        "chemspider": [
+          "4444290"
+        ],
+        "hmdb": [
+          "HMDB0037340"
+        ],
+        "kegg": [
+          "C04608"
+        ]
+      }
+    },
+    "position": {
+      "x": 2025.1919322208878,
+      "y": 235.55467081910894
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ed682",
+      "source": "a346c",
+      "target": "c1f9c",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06544"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ed830",
+      "source": "db171",
+      "target": "f280b",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R01613"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "edf06",
+      "label": "K 3-Glc-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005184"
+        ],
+        "wikidata": [
+          "Q23058972"
+        ],
+        "inchi": [
+          "JYXSWDCPHRTYGU-KSAWAZCGSA-N"
+        ],
+        "pubchem": [
+          "139031089"
+        ]
+      }
+    },
+    "position": {
+      "x": 206.23119436407217,
+      "y": 419.99579066617673
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ee094",
+      "source": "b1b0b",
+      "target": "d5464",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ee5a9",
+      "source": "daec9",
+      "target": "b7c08",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ee94c",
+      "label": "",
+      "gpmlType": "Group",
+      "wpType": null,
+      "type": "Unknown",
+      "xrefs": {}
+    },
+    "position": {
+      "x": 1299.792682605292,
+      "y": 99.16753788336968
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "eed7d",
+      "label": "K 3-(6'-Glu)Glu",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005166"
+        ],
+        "wikidata": [
+          "Q23069123"
+        ],
+        "chebi": [
+          "136785"
+        ],
+        "inchi": [
+          "BITPRCODIALMOV-DEFKTLOSSA-N"
+        ],
+        "pubchem": [
+          "9960512"
+        ],
+        "hmdb": [
+          "HMDB0303606"
+        ],
+        "lipidmaps": [
+          "LMPK12111731"
+        ]
+      }
+    },
+    "position": {
+      "x": 67.69621567750573,
+      "y": 370.56502832835577
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ef476",
+      "label": "Q 3-Ara-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005420"
+        ],
+        "wikidata": [
+          "Q50318429"
+        ],
+        "inchi": [
+          "QOTHERNBBVJOEC-UYKRBNNLSA-N"
+        ],
+        "pubchem": [
+          "139033620"
+        ]
+      }
+    },
+    "position": {
+      "x": 717.5183162092891,
+      "y": 491.3309071815123
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "efc6c",
+      "source": "d22b3",
+      "target": "f0cfc",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f06ec",
+      "source": "eed7d",
+      "target": "bc23b",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f0c2d",
+      "source": "a7d2b",
+      "target": "d5811",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06615"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f0cfc",
+      "label": "Diosmetin 7-neohesperidoside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00004508"
+        ],
+        "wikidata": [
+          "Q15041645"
+        ],
+        "inchi": [
+          "VCCNKWWXYVWTLT-OHWCQILZSA-N"
+        ],
+        "pubchem": [
+          "44258230"
+        ],
+        "chemspider": [
+          "24843838"
+        ],
+        "lipidmaps": [
+          "LMPK12110819"
+        ]
+      }
+    },
+    "position": {
+      "x": 1521.5949077569246,
+      "y": 543.4011179956736
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f11d9",
+      "source": "a7c14",
+      "target": "a36f1",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f249c",
+      "source": "c30a3",
+      "target": "ed09a",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R05036"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f280b",
+      "label": "Naringenin chalcone",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "kegg": [
+          "C06561"
+        ],
+        "kegg.compound": [
+          "C06561"
+        ],
+        "wikidata": [
+          "Q25098661"
+        ],
+        "chebi": [
+          "15413"
+        ],
+        "inchi": [
+          "YQHMWTPYORBCMF-ZZXKWVIFSA-N"
+        ],
+        "pubchem": [
+          "5280960"
+        ],
+        "chemspider": [
+          "4444447"
+        ],
+        "hmdb": [
+          "HMDB0029631"
+        ],
+        "lipidmaps": [
+          "LMPK12120264"
+        ],
+        "kegg_compound": [
+          "C06561"
+        ]
+      }
+    },
+    "position": {
+      "x": 1436.0279831568278,
+      "y": 96.60249225995523
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f2821",
+      "label": "epicatechin heptamer",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {}
+    },
+    "position": {
+      "x": 1432.7779831568278,
+      "y": 1027.6928135275202
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f2b8b",
+      "label": "Q 3-Glc-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005428"
+        ],
+        "wikidata": [
+          "Q56236938"
+        ],
+        "inchi": [
+          "OTUCXMIQUNROBJ-FVQHZYONNA-N"
+        ]
+      }
+    },
+    "position": {
+      "x": 202.62138704533652,
+      "y": 627.3134599197025
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f3526",
+      "source": "b7476",
+      "target": "c26c6",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f38a4",
+      "label": "Epicatechin-(4beta->8)5-epicatechin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00002918"
+        ],
+        "wikidata": [
+          "Q23048892"
+        ],
+        "chebi": [
+          "10150",
+          "81230"
+        ],
+        "inchi": [
+          "UUOWTYGESRVWCF-WKWFDMPLSA-N"
+        ],
+        "pubchem": [
+          "16129623"
+        ],
+        "hmdb": [
+          "HMDB0037658"
+        ],
+        "kegg": [
+          "C10222"
+        ],
+        "lipidmaps": [
+          "LMPK12030007"
+        ]
+      }
+    },
+    "position": {
+      "x": 1399.7779831568278,
+      "y": 981.6767814633909
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f4126",
+      "label": "I 3-(2''Rha)Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005547"
+        ],
+        "wikidata": [
+          "Q23466058"
+        ],
+        "inchi": [
+          "QHLKSZBFIJJREC-LRVFLTSZSA-N"
+        ],
+        "pubchem": [
+          "139031044"
+        ]
+      }
+    },
+    "position": {
+      "x": 439.05192556994234,
+      "y": 713.7465295116649
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f4e53",
+      "source": "c3908",
+      "target": "a0771",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f515d",
+      "label": "A2",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00007655"
+        ]
+      }
+    },
+    "position": {
+      "x": 947.7712074262148,
+      "y": 981.676781463391
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f5c0c",
+      "source": "d2186",
+      "target": "f38a4",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f719f",
+      "source": "a0771",
+      "target": "d1f45",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f73cf",
+      "source": "a346c",
+      "target": "ebdf8",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06545"
+        ]
+      }
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f7418",
+      "label": "Q 3-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005373"
+        ],
+        "wikidata": [
+          "Q6086296"
+        ],
+        "chebi": [
+          "68352"
+        ],
+        "inchi": [
+          "OVSQVDMCBVZWGM-QSOFNFLRSA-N"
+        ],
+        "pubchem": [
+          "5280804"
+        ],
+        "chemspider": [
+          "4444361"
+        ],
+        "hmdb": [
+          "HMDB0037362"
+        ],
+        "kegg": [
+          "C05623"
+        ]
+      }
+    },
+    "position": {
+      "x": 218.13399347419806,
+      "y": 491.33090718151254
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f82fe",
+      "label": "C 3-(6'-Cou)Glc-5-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006819"
+        ],
+        "wikidata": [
+          "Q23055393"
+        ],
+        "inchi": [
+          "YPXWWSJGANMFFQ-PYFLMTSASA-O"
+        ],
+        "pubchem": [
+          "139031087"
+        ]
+      }
+    },
+    "position": {
+      "x": 992.599969749355,
+      "y": 834.8667201439488
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "f84e2",
+      "label": "K 3-(2'-Rha)Glc-7-Rha",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005237"
+        ]
+      }
+    },
+    "position": {
+      "x": 304.7410727289439,
+      "y": 419.99579066617673
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f8603",
+      "source": "ed09a",
+      "target": "a7c14",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R06542"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f985e",
+      "source": "c6404",
+      "target": "aa094",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03571"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "f9ef1",
+      "source": "c1f9c",
+      "target": "c9afb",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "fc66e",
+      "label": "K 3-Rha-7-Glc",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00005188"
+        ],
+        "wikidata": [
+          "Q23048396"
+        ],
+        "inchi": [
+          "MBLYALXOUBKFNE-NAYQWVCRSA-N"
+        ],
+        "pubchem": [
+          "139031072"
+        ]
+      }
+    },
+    "position": {
+      "x": 324.16025209269515,
+      "y": 234.55339768832215
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "fc9d7",
+      "source": "b32f8",
+      "target": "b2114",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "fced9",
+      "label": "Cinnamtannin A1",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00009107"
+        ],
+        "wikidata": [
+          "Q23048725"
+        ],
+        "chebi": [
+          "81227"
+        ],
+        "inchi": [
+          "QFLMUASKTWGRQE-JNIIMKSASA-N"
+        ],
+        "pubchem": [
+          "16130899"
+        ],
+        "chemspider": [
+          "10272879"
+        ],
+        "hmdb": [
+          "HMDB0037661"
+        ],
+        "kegg": [
+          "C17625"
+        ]
+      }
+    },
+    "position": {
+      "x": 1439.2779831568278,
+      "y": 881.796544851478
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "fcfb1",
+      "source": "c9afb",
+      "target": "c7039",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "fd963",
+      "source": "f7418",
+      "target": "dafa9",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "fe7dc",
+      "source": "be569",
+      "target": "cca9e",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03126"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "feabc",
+      "source": "b7476",
+      "target": "db4d9",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R03588"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "fedf5",
+      "source": "a346c",
+      "target": "de377",
+      "arrow": "triangle",
+      "xrefs": {
+        "kegg_reaction": [
+          "R10291"
+        ]
+      }
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ff0b6",
+      "source": "daec9",
+      "target": "e4069",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ff1e2",
+      "label": "Cyanidin 3-sophoroside",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00006658"
+        ]
+      }
+    },
+    "position": {
+      "x": 818.1248128546199,
+      "y": 583.3070968916857
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ff7ad",
+      "source": "d5752",
+      "target": "e673f",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ff8d5",
+      "source": "e1a28",
+      "target": "a1239",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "ff9c6",
+      "source": "a1dad",
+      "target": "d1df7",
+      "arrow": "triangle",
+      "xrefs": {}
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ffadd",
+      "label": "Dihydroquercetin",
+      "gpmlType": "DataNode",
+      "wpType": "Metabolite",
+      "type": "Metabolite",
+      "xrefs": {
+        "knapsack": [
+          "C00000677"
+        ],
+        "wikidata": [
+          "Q412191"
+        ],
+        "chebi": [
+          "17948"
+        ],
+        "inchi": [
+          "CXQWRCVTCMQVQX-LSDHHAIUSA-N"
+        ],
+        "pubchem": [
+          "439533"
+        ],
+        "chemspider": [
+          "458"
+        ],
+        "hmdb": [
+          "HMDB0303943"
+        ],
+        "kegg": [
+          "C01617"
+        ],
+        "lipidmaps": [
+          "LMPK12140721"
+        ]
+      }
+    },
+    "position": {
+      "x": 995.867885956633,
+      "y": 421.051436519095
+    }
+  }
+]

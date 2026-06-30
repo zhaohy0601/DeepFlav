@@ -1,0 +1,1289 @@
+{
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "a1db8",
+          "label": "FLS",
+          "type": "DataNode,SingleFreeNode,Entrez Gene:830765,GeneProduct,CompactIdentifier:ncbigene:830765,FLS,Ensembl:AT5G08640,Entrez Gene:830765,UniProt:A0A384L0E6,UniProt:B1GV59,UniProt:B7SFQ1,UniProt:B1GV57,UniProt:Q96330,UniProt:B1GV63,UniProt:B1GV75",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": "Entrez Gene:830765"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 631,
+          "y": 489
+        }
+      },
+      {
+        "data": {
+          "id": "a29e2",
+          "label": "Kae-3-O-Glu",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 85,
+          "y": 597
+        }
+      },
+      {
+        "data": {
+          "id": "a6426",
+          "label": "feruloyl-CoA",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:14261,Metabolite,CompactIdentifier:chebi:14261,feruloyl-CoA,Wikidata:Q27108978,ChEBI:14261,InChI:GBXZVJQQDAJGSO-HSJNEKGZSA-N,PubChem:139031281,ChemSpider:21864772",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:14261"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 742,
+          "y": 229
+        }
+      },
+      {
+        "data": {
+          "id": "a7b51",
+          "label": "CHS",
+          "type": "DataNode,SingleFreeNode,GeneProduct",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 344,
+          "y": 260
+        }
+      },
+      {
+        "data": {
+          "id": "a92f8",
+          "label": "petunidin",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 408,
+          "y": 780
+        }
+      },
+      {
+        "data": {
+          "id": "abc66",
+          "label": "homoeriodictyol chalcone",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 721.5,
+          "y": 298
+        }
+      },
+      {
+        "data": {
+          "id": "b3875",
+          "label": "PAL4",
+          "type": "DataNode,SingleFreeNode,Entrez Gene:820196,GeneProduct,CompactIdentifier:ncbigene:820196,PAL4,Ensembl:AT3G10340,Entrez Gene:820196,UniProt:A0A654F5U4,UniProt:A0A178V872,UniProt:A0A5S9XAV2,UniProt:Q9SS45",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": "Entrez Gene:820196"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 8,
+          "y": 8
+        }
+      },
+      {
+        "data": {
+          "id": "b5a61",
+          "label": "Kae-3-O-Glu-Rha",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 179,
+          "y": 676
+        }
+      },
+      {
+        "data": {
+          "id": "b6326",
+          "label": "cinnamoyl-CoA",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:15463,Metabolite,CompactIdentifier:chebi:15463,cinnamoyl-CoA,Wikidata:Q57828469,ChEBI:15463,InChI:JVNVHNHITFVWIX-FUEUKBNZSA-N,PubChem:195898,KEGG:C00540,LipidMaps:LMFA07050294",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:15463"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 136,
+          "y": 229
+        }
+      },
+      {
+        "data": {
+          "id": "b9303",
+          "label": "CHS",
+          "type": "DataNode,SingleFreeNode,GeneProduct",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 631,
+          "y": 264
+        }
+      },
+      {
+        "data": {
+          "id": "c582a",
+          "label": "Que-3-O-Glu",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 675.9999999999992,
+          "y": 586.6666666666665
+        }
+      },
+      {
+        "data": {
+          "id": "c61ca",
+          "label": "chalcones",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:23086,Metabolite,CompactIdentifier:chebi:23086,chalcones,Wikidata:Q40208401,ChEBI:23086,KEGG:C15589",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:23086"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 36,
+          "y": 298
+        }
+      },
+      {
+        "data": {
+          "id": "c6211",
+          "label": "p-coumaroyl-CoA",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:15499,Metabolite,CompactIdentifier:chebi:15499,p-coumaroyl-CoA,Wikidata:Q57828471,ChEBI:15499,InChI:DMZOKBALNZWDKI-FUEUKBNZSA-N,PubChem:147899,ChemSpider:21864784,HMDB:HMDB0304822,LipidMaps:LMFA07050265",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:15499"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 252,
+          "y": 229
+        }
+      },
+      {
+        "data": {
+          "id": "c7d28",
+          "label": "CHI",
+          "type": "DataNode,SingleFreeNode,GeneProduct",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 344,
+          "y": 332
+        }
+      },
+      {
+        "data": {
+          "id": "c8aa0",
+          "label": "phenylpropanoids",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:26004,Metabolite,CompactIdentifier:chebi:26004,phenylpropanoids,Wikidata:Q417181,ChEBI:26004",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:26004"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 26,
+          "y": 159.5
+        }
+      },
+      {
+        "data": {
+          "id": "ca8ee",
+          "label": "F3H",
+          "type": "DataNode,SingleFreeNode,Entrez Gene:824287,GeneProduct,CompactIdentifier:ncbigene:824287,F3H,Ensembl:AT3G51240,Entrez Gene:824287,UniProt:Q8GS44,UniProt:A0A654FG34,UniProt:Q8GRV6,UniProt:A0A178VBM9,UniProt:A0A5S9XJS4,UniProt:Q8GSW3,UniProt:Q8GSW4,UniProt:F4J3A5,UniProt:Q7Y1X4,UniProt:Q5DWW1,UniProt:Q9S818,UniProt:Q5DWW0,UniProt:Q8GRQ8,UniProt:Q8GRQ9",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": "Entrez Gene:824287"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 631,
+          "y": 405
+        }
+      },
+      {
+        "data": {
+          "id": "cc99e",
+          "label": "delphinidin",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:28436,Metabolite,CompactIdentifier:chebi:28436,delphinidin,Wikidata:Q63409071,ChEBI:28436,InChI:JKHRCGUTYDNCLE-UHFFFAOYSA-O,PubChem:128853,ChemSpider:114185,HMDB:HMDB0003074,KEGG:C05908",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:28436"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 461,
+          "y": 730
+        }
+      },
+      {
+        "data": {
+          "id": "cec52",
+          "label": "CHS",
+          "type": "DataNode,SingleFreeNode,GeneProduct",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 824,
+          "y": 265
+        }
+      },
+      {
+        "data": {
+          "id": "cf462",
+          "label": "PAL2",
+          "type": "DataNode,SingleFreeNode,Entrez Gene:824493,GeneProduct,CompactIdentifier:ncbigene:824493,PAL2,Ensembl:AT3G53260,Entrez Gene:824493,UniProt:B9DHX2,UniProt:Q56Z45,UniProt:A0A178VNB5,UniProt:P45724",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": "Entrez Gene:824493"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 8,
+          "y": 48
+        }
+      },
+      {
+        "data": {
+          "id": "cfae2",
+          "label": "CHI",
+          "type": "DataNode,SingleFreeNode,GeneProduct",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 631,
+          "y": 338
+        }
+      },
+      {
+        "data": {
+          "id": "d518a",
+          "label": "L-phenylalanine",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:17295,Metabolite,CompactIdentifier:chebi:17295,L-phenylalanine,Wikidata:Q72440822,Wikidata:Q170545,Wikidata:Q106345467,ChEBI:58095,ChEBI:17295,InChI:COLNVLDHVKWLRT-QMMMGPOBSA-N,PubChem:6140,PubChem:6925665,ChemSpider:5910,HMDB:HMDB0000159,KEGG:C00079",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:17295"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 136,
+          "y": 58
+        }
+      },
+      {
+        "data": {
+          "id": "d7bb3",
+          "label": "Que-3-O-Glu-Rha, 7-OGlu",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 746.0000000000005,
+          "y": 734.6666666666663
+        }
+      },
+      {
+        "data": {
+          "id": "d900d",
+          "label": "PAL3",
+          "type": "DataNode,SingleFreeNode,Entrez Gene:830302,GeneProduct,CompactIdentifier:ncbigene:830302,PAL3,Ensembl:AT5G04230,Entrez Gene:830302,UniProt:P45725,UniProt:A0A178ULH7,UniProt:F4JW69",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": "Entrez Gene:830302"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 8,
+          "y": 28
+        }
+      },
+      {
+        "data": {
+          "id": "dc59c",
+          "label": "cinnamic acid",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:27386,Metabolite,CompactIdentifier:chebi:27386,cinnamic acid,Wikidata:Q57826855,ChEBI:27386,InChI:WBYWAXJHAXSJNI-UHFFFAOYSA-N,PubChem:8784,KEGG:C10438",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:27386"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 136,
+          "y": 160
+        }
+      },
+      {
+        "data": {
+          "id": "dc6d7",
+          "label": "Que-3-O-Glu-Rha",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 770.0000000000002,
+          "y": 665.666666666667
+        }
+      },
+      {
+        "data": {
+          "id": "dd61a",
+          "label": "Kae-3-O-diGlu",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 78,
+          "y": 675
+        }
+      },
+      {
+        "data": {
+          "id": "df355",
+          "label": "naringenin",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:50202,Metabolite,CompactIdentifier:chebi:50202,naringenin,Wikidata:Q57826857,ChEBI:50202,InChI:FTVWIRXFELQLPI-UHFFFAOYSA-N,PubChem:932,ChemSpider:907,HMDB:HMDB0242579",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:50202"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 264,
+          "y": 374
+        }
+      },
+      {
+        "data": {
+          "id": "df8d1",
+          "label": "caffeic acid",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:36281,Metabolite,CompactIdentifier:chebi:36281,caffeic acid,Wikidata:Q56231106,ChEBI:36281,InChI:QAIPRVGONGVQAS-UHFFFAOYSA-N,PubChem:2518,KEGG:C01481",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:36281"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 538,
+          "y": 160
+        }
+      },
+      {
+        "data": {
+          "id": "e1527",
+          "label": "leucodelphinidin",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 450,
+          "y": 675
+        }
+      },
+      {
+        "data": {
+          "id": "e3906",
+          "label": "dihydrokaempferol",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:15401,Metabolite,CompactIdentifier:chebi:15401,dihydrokaempferol,Wikidata:Q956217,ChEBI:15401,InChI:PADQINQHPQKXNL-LSDHHAIUSA-N,PubChem:122850,ChemSpider:109514,HMDB:HMDB0030847,KEGG:C00974,LipidMaps:LMPK12140720",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:15401"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 246.5,
+          "y": 462
+        }
+      },
+      {
+        "data": {
+          "id": "e415b",
+          "label": "ferulic acid",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:17620,Metabolite,CompactIdentifier:chebi:17620,ferulic acid,Wikidata:Q417362,ChEBI:17620,InChI:KSEBMYQBYZTDHS-HWKANZROSA-N,PubChem:445858,ChemSpider:393368,HMDB:HMDB0000954,KEGG:C01494",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:17620"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 754,
+          "y": 160
+        }
+      },
+      {
+        "data": {
+          "id": "e43b5",
+          "label": "kaempferol",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:28499,Metabolite,CompactIdentifier:chebi:28499,kaempferol,Wikidata:Q393336,ChEBI:28499,InChI:IYRMWMYZSQPJKC-UHFFFAOYSA-N,PubChem:5280863,ChemSpider:4444395,HMDB:HMDB0005801,KEGG:C05903,LipidMaps:LMPK12110003",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:28499"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 264,
+          "y": 541
+        }
+      },
+      {
+        "data": {
+          "id": "e5b8b",
+          "label": "caffeoyl-CoA",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:15518,Metabolite,CompactIdentifier:chebi:15518,caffeoyl-CoA,Wikidata:Q27098073,ChEBI:15518,InChI:QHRGJMIMHCLHRG-FUEUKBNZSA-N,PubChem:139031130,ChemSpider:21864788,KEGG:C00323,LipidMaps:LMFA07050293",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:15518"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 526,
+          "y": 229
+        }
+      },
+      {
+        "data": {
+          "id": "e78d8",
+          "label": "dihydroflavonols",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:48039,Metabolite,CompactIdentifier:chebi:48039,dihydroflavonols,Wikidata:Q57826603,ChEBI:48039,KEGG:C15570",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:48039"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 25,
+          "y": 462
+        }
+      },
+      {
+        "data": {
+          "id": "e7997",
+          "label": "eriodictyol chalcone",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 523,
+          "y": 298
+        }
+      },
+      {
+        "data": {
+          "id": "e8a2f",
+          "label": "dihydrotricetin",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 421.5,
+          "y": 390
+        }
+      },
+      {
+        "data": {
+          "id": "ee50a",
+          "label": "eriodictyol",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:28412,Metabolite,CompactIdentifier:chebi:28412,eriodictyol,Wikidata:Q3459685,ChEBI:28412,InChI:SBHXYTNGIZCORC-ZDUSSCGKSA-N,PubChem:440735,ChemSpider:389606,HMDB:HMDB0005810,KEGG:C05631,LipidMaps:LMPK12140002",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:28412"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 538,
+          "y": 374
+        }
+      },
+      {
+        "data": {
+          "id": "efe3b",
+          "label": "coumaric acid",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:23401,Metabolite,CompactIdentifier:chebi:23401,coumaric acid,Wikidata:Q10910417,ChEBI:23401",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:23401"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 264,
+          "y": 160
+        }
+      },
+      {
+        "data": {
+          "id": "f458f",
+          "label": "dihydromyricetin",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:28917,Metabolite,CompactIdentifier:chebi:28917,dihydromyricetin,Wikidata:Q27103961,ChEBI:28917,InChI:KJXSIXMJHKAJOD-UHFFFAOYSA-N,PubChem:5153580,ChemSpider:4326686,HMDB:HMDB0030835",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:28917"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 412,
+          "y": 480
+        }
+      },
+      {
+        "data": {
+          "id": "f7a3e",
+          "label": "dihydrotricetin",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:25882,Metabolite,CompactIdentifier:chebi:25882,dihydrotricetin,Wikidata:Q27109894,ChEBI:25882,InChI:USQXPEWRYWRRJD-UHFFFAOYSA-N,PubChem:5258991,ChemSpider:4424366,LipidMaps:LMPK12140455",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:25882"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 538,
+          "y": 462
+        }
+      },
+      {
+        "data": {
+          "id": "f85c8",
+          "label": "malvidin",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 515,
+          "y": 780
+        }
+      },
+      {
+        "data": {
+          "id": "f8cc9",
+          "label": "Kae-3-O-Glu-Rha, 7-OGlu",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 155,
+          "y": 745
+        }
+      },
+      {
+        "data": {
+          "id": "f9184",
+          "label": "naringenin chalcone",
+          "type": "DataNode,SingleFreeNode,PubChem-compound:5280960,Metabolite,CompactIdentifier:pubchem.compound:5280960,naringenin chalcone,Wikidata:Q25098661,ChEBI:15413,InChI:YQHMWTPYORBCMF-ZZXKWVIFSA-N,PubChem:5280960,ChemSpider:4444447,HMDB:HMDB0029631,KEGG:C06561,LipidMaps:LMPK12120264",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "PubChem-compound:5280960"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 246,
+          "y": 298
+        }
+      },
+      {
+        "data": {
+          "id": "f9889",
+          "label": "F3H",
+          "type": "DataNode,SingleFreeNode,GeneProduct",
+          "mainType": "GeneProduct",
+          "wpType": "GeneProduct",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 344,
+          "y": 414
+        }
+      },
+      {
+        "data": {
+          "id": "f9a25",
+          "label": "quercetin",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:16243,Metabolite,CompactIdentifier:chebi:16243,quercetin,Wikidata:Q409478,ChEBI:16243,InChI:REFJWTPEDVJJIY-UHFFFAOYSA-N,PubChem:5280343,ChemSpider:4444051,HMDB:HMDB0005794,KEGG:C00389,LipidMaps:LMPK12110004",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:16243"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 538,
+          "y": 541
+        }
+      },
+      {
+        "data": {
+          "id": "f9e98",
+          "label": "Que-3-O-diGlu",
+          "type": "DataNode,SingleFreeNode,Metabolite",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": ""
+        },
+        "group": "nodes",
+        "position": {
+          "x": 668.9999999999993,
+          "y": 664.666666666667
+        }
+      },
+      {
+        "data": {
+          "id": "fb350",
+          "label": "flavones",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:24043,Metabolite,CompactIdentifier:chebi:24043,flavones,Wikidata:Q424525,ChEBI:24043,KEGG:C10043",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:24043"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 36,
+          "y": 374
+        }
+      },
+      {
+        "data": {
+          "id": "fedb9",
+          "label": "myricetin",
+          "type": "DataNode,SingleFreeNode,ChEBI:CHEBI:18152,Metabolite,CompactIdentifier:chebi:18152,myricetin,Wikidata:Q951449,ChEBI:18152,InChI:IKMDFBPHZNJCSN-UHFFFAOYSA-N,PubChem:5281672,ChemSpider:4444991,HMDB:HMDB0002755,KEGG:C10107,LipidMaps:LMPK12110001",
+          "mainType": "Metabolite",
+          "wpType": "Metabolite",
+          "xref": "ChEBI:CHEBI:18152"
+        },
+        "group": "nodes",
+        "position": {
+          "x": 345,
+          "y": 675
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "a2d46",
+          "source": "e33f0",
+          "target": "b92df",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "a46e5",
+          "source": "dc59c",
+          "target": "efe3b",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "a57f9",
+          "source": "a7b51",
+          "target": "b3aef",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "a6533",
+          "source": "e43b5",
+          "target": "fedb9",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "a87a0",
+          "source": "cc99e",
+          "target": "a92f8",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "a8fd2",
+          "source": "b6326",
+          "target": "c6211",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "ae156",
+          "source": "f9889",
+          "target": "c73b9",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "b1696",
+          "source": "f9a25",
+          "target": "c582a",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "b3aef",
+          "source": "c6211",
+          "target": "f9184",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "b64d8",
+          "source": "c7d28",
+          "target": "ed896",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "b89fb",
+          "source": "e43b5",
+          "target": "f9a25",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "b92df",
+          "source": "d518a",
+          "target": "dc59c",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "bc2ec",
+          "source": "e5b8b",
+          "target": "e7997",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "bf323",
+          "source": "cfae2",
+          "target": "fd2bd",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "bfed0",
+          "source": "c582a",
+          "target": "dc6d7",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "c1463",
+          "source": "ee50a",
+          "target": "e8a2f",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "c4a24",
+          "source": "efe3b",
+          "target": "c6211",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "c5b3a",
+          "source": "df355",
+          "target": "e8a2f",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "c6b74",
+          "source": "dc6d7",
+          "target": "d7bb3",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "c73b9",
+          "source": "df355",
+          "target": "e3906",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "c88d4",
+          "source": "b9303",
+          "target": "bc2ec",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "cdd3f",
+          "source": "c582a",
+          "target": "f9e98",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "d0b75",
+          "source": "e3906",
+          "target": "f458f",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "d1bae",
+          "source": "f458f",
+          "target": "e1527",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "d26ba",
+          "source": "a1db8",
+          "target": "fdd5b",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "d3d1b",
+          "source": "a6426",
+          "target": "abc66",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "d50c4",
+          "source": "e5b8b",
+          "target": "a6426",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "d5330",
+          "source": "e1527",
+          "target": "cc99e",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "da62b",
+          "source": "efe3b",
+          "target": "df8d1",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "dd71d",
+          "source": "e3906",
+          "target": "e43b5",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "e4454",
+          "source": "c61ca",
+          "target": "fb350",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "e5053",
+          "source": "f458f",
+          "target": "fedb9",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "e84b5",
+          "source": "e415b",
+          "target": "a6426",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "e88b1",
+          "source": "ee50a",
+          "target": "f7a3e",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "e92de",
+          "source": "cc99e",
+          "target": "f85c8",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "e9c27",
+          "source": "ca8ee",
+          "target": "e88b1",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "ea207",
+          "source": "df8d1",
+          "target": "e415b",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "ed896",
+          "source": "f9184",
+          "target": "df355",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "ef183",
+          "source": "c6211",
+          "target": "e5b8b",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "f0ee2",
+          "source": "df8d1",
+          "target": "e5b8b",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "f1786",
+          "source": "c8aa0",
+          "target": "c61ca",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "f524a",
+          "source": "dc59c",
+          "target": "b6326",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "f6162",
+          "source": "fb350",
+          "target": "e78d8",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "f6400",
+          "source": "e8a2f",
+          "target": "f458f",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "fd2bd",
+          "source": "e7997",
+          "target": "ee50a",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "fd9d2",
+          "source": "cec52",
+          "target": "d3d1b",
+          "type": "Interaction,Edge",
+          "arrow": "none",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "fdd5b",
+          "source": "f7a3e",
+          "target": "f9a25",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "id1d7e85a0",
+          "source": "a29e2",
+          "target": "dd61a",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "id53767fa7",
+          "source": "b5a61",
+          "target": "f8cc9",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "id99b5abe5",
+          "source": "e43b5",
+          "target": "a29e2",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      },
+      {
+        "data": {
+          "id": "ida39a838a",
+          "source": "a29e2",
+          "target": "b5a61",
+          "type": "Interaction,Edge,SBO:0000167,SBO:0000393,SBO:0000394,DirectedInteraction",
+          "arrow": "triangle",
+          "style": ""
+        },
+        "group": "edges"
+      }
+    ]
+  }
+}

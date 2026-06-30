@@ -1,0 +1,93 @@
+# ========================
+# Dependencies
+# ========================
+node_modules/
+
+# ========================
+# Build output
+# ========================
+dist/
+dist-ssr/
+*.local
+
+# ========================
+# Editor / IDE
+# ========================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========================
+# Logs
+# ========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ========================
+# TypeScript build info
+# ========================
+*.tsbuildinfo
+
+# ========================
+# Environment variables
+# ========================
+.env
+.env.*
+!.env.example
+
+# ========================
+# Testing
+# ========================
+coverage/
+
+# ========================
+# Large data files (excluded from GitHub)
+# These data files are available at the live site:
+# https://cbi.gxu.edu.cn/KPGF/html/#/
+# ========================
+frontend/public/fla-data/
+frontend/public/web_data/
+frontend/public/gene-index.json
+frontend/public/data.zip
+
+# ========================
+# Generated config files
+# ========================
+vite.config.d.ts
+vitest.config.d.ts
+vite.config.js
+vitest.config.js
+
+# ========================
+# Temporary / cache
+# ========================
+*.7z
+*.zip
+*.rar
+*.tar.gz
+Microsoft/
+script_block.txt
+
+# ========================
+# Tool caches / internal dev docs
+# ========================
+.workbuddy/
+frontend/docs/DATABASE_OPTIMIZATION_PLAN.md
+frontend/docs/database-migration-plan.md

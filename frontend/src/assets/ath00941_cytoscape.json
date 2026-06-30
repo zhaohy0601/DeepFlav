@@ -1,0 +1,3509 @@
+{
+    "elements": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "path:ath00944",
+                    "label": "Flavone and flavonol biosynthesis",
+                    "type": "map",
+                    "kgml_internal_id": "12"
+                }
+            },
+            {
+                "data": {
+                    "id": "path:ath00944",
+                    "label": "Flavone and flavonol biosynthesis",
+                    "type": "map",
+                    "kgml_internal_id": "13"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16492",
+                    "label": "C16492",
+                    "type": "compound",
+                    "kgml_internal_id": "14"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C01460",
+                    "label": "C01460",
+                    "type": "compound",
+                    "kgml_internal_id": "15"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00852",
+                    "label": "C00852",
+                    "type": "compound",
+                    "kgml_internal_id": "16"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C12208",
+                    "label": "C12208",
+                    "type": "compound",
+                    "kgml_internal_id": "17"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C10434",
+                    "label": "C10434",
+                    "type": "compound",
+                    "kgml_internal_id": "18"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C10044",
+                    "label": "C10044",
+                    "type": "compound",
+                    "kgml_internal_id": "19"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C10028",
+                    "label": "C10028",
+                    "type": "compound",
+                    "kgml_internal_id": "20"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C02947",
+                    "label": "C02947",
+                    "type": "compound",
+                    "kgml_internal_id": "21"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C12124",
+                    "label": "C12124",
+                    "type": "compound",
+                    "kgml_internal_id": "22"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C12127",
+                    "label": "C12127",
+                    "type": "compound",
+                    "kgml_internal_id": "23"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C12136",
+                    "label": "C12136",
+                    "type": "compound",
+                    "kgml_internal_id": "24"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05908",
+                    "label": "C05908",
+                    "type": "compound",
+                    "kgml_internal_id": "25"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05909",
+                    "label": "C05909",
+                    "type": "compound",
+                    "kgml_internal_id": "26"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C02906",
+                    "label": "C02906",
+                    "type": "compound",
+                    "kgml_internal_id": "27"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C10107",
+                    "label": "C10107",
+                    "type": "compound",
+                    "kgml_internal_id": "28"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09727",
+                    "label": "C09727",
+                    "type": "compound",
+                    "kgml_internal_id": "29"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05905",
+                    "label": "C05905",
+                    "type": "compound",
+                    "kgml_internal_id": "30"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C06562",
+                    "label": "C06562",
+                    "type": "compound",
+                    "kgml_internal_id": "31"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05906",
+                    "label": "C05906",
+                    "type": "compound",
+                    "kgml_internal_id": "32"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C01617",
+                    "label": "C01617",
+                    "type": "compound",
+                    "kgml_internal_id": "33"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00389",
+                    "label": "C00389",
+                    "type": "compound",
+                    "kgml_internal_id": "34"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05903",
+                    "label": "C05903",
+                    "type": "compound",
+                    "kgml_internal_id": "35"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09320",
+                    "label": "C09320",
+                    "type": "compound",
+                    "kgml_internal_id": "36"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C12128",
+                    "label": "C12128",
+                    "type": "compound",
+                    "kgml_internal_id": "37"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05904",
+                    "label": "C05904",
+                    "type": "compound",
+                    "kgml_internal_id": "38"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C03648",
+                    "label": "C03648",
+                    "type": "compound",
+                    "kgml_internal_id": "39"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00974",
+                    "label": "C00974",
+                    "type": "compound",
+                    "kgml_internal_id": "40"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C10192",
+                    "label": "C10192",
+                    "type": "compound",
+                    "kgml_internal_id": "41"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05911",
+                    "label": "C05911",
+                    "type": "compound",
+                    "kgml_internal_id": "42"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05907",
+                    "label": "C05907",
+                    "type": "compound",
+                    "kgml_internal_id": "43"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C01514",
+                    "label": "C01514",
+                    "type": "compound",
+                    "kgml_internal_id": "44"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C01477",
+                    "label": "C01477",
+                    "type": "compound",
+                    "kgml_internal_id": "45"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05631",
+                    "label": "C05631",
+                    "type": "compound",
+                    "kgml_internal_id": "46"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09756",
+                    "label": "C09756",
+                    "type": "compound",
+                    "kgml_internal_id": "47"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16405",
+                    "label": "C16405",
+                    "type": "compound",
+                    "kgml_internal_id": "48"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00406",
+                    "label": "C00406",
+                    "type": "compound",
+                    "kgml_internal_id": "49"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C15525",
+                    "label": "C15525",
+                    "type": "compound",
+                    "kgml_internal_id": "50"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00323",
+                    "label": "C00323",
+                    "type": "compound",
+                    "kgml_internal_id": "51"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16410",
+                    "label": "C16410",
+                    "type": "compound",
+                    "kgml_internal_id": "52"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16408",
+                    "label": "C16408",
+                    "type": "compound",
+                    "kgml_internal_id": "53"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16409",
+                    "label": "C16409",
+                    "type": "compound",
+                    "kgml_internal_id": "54"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16407",
+                    "label": "C16407",
+                    "type": "compound",
+                    "kgml_internal_id": "55"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00509",
+                    "label": "C00509",
+                    "type": "compound",
+                    "kgml_internal_id": "56"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09806",
+                    "label": "C09806",
+                    "type": "compound",
+                    "kgml_internal_id": "57"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09789",
+                    "label": "C09789",
+                    "type": "compound",
+                    "kgml_internal_id": "58"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16422",
+                    "label": "C16422",
+                    "type": "compound",
+                    "kgml_internal_id": "59"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16417",
+                    "label": "C16417",
+                    "type": "compound",
+                    "kgml_internal_id": "60"
+                }
+            },
+            {
+                "data": {
+                    "id": "path:ath00942",
+                    "label": "Anthocyanin biosynthesis",
+                    "type": "map",
+                    "kgml_internal_id": "61"
+                }
+            },
+            {
+                "data": {
+                    "id": "path:map00943",
+                    "label": "Isoflavonoid biosynthesis",
+                    "type": "map",
+                    "kgml_internal_id": "62"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09614",
+                    "label": "C09614",
+                    "type": "compound",
+                    "kgml_internal_id": "63"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09827",
+                    "label": "C09827",
+                    "type": "compound",
+                    "kgml_internal_id": "64"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C06561",
+                    "label": "C06561",
+                    "type": "compound",
+                    "kgml_internal_id": "65"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09099",
+                    "label": "C09099",
+                    "type": "compound",
+                    "kgml_internal_id": "66"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C01378",
+                    "label": "C01378",
+                    "type": "compound",
+                    "kgml_internal_id": "67"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16416",
+                    "label": "C16416",
+                    "type": "compound",
+                    "kgml_internal_id": "68"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09736",
+                    "label": "C09736",
+                    "type": "compound",
+                    "kgml_internal_id": "69"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C01709",
+                    "label": "C01709",
+                    "type": "compound",
+                    "kgml_internal_id": "70"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00223",
+                    "label": "C00223",
+                    "type": "compound",
+                    "kgml_internal_id": "71"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G42800",
+                    "label": "DFR",
+                    "type": "gene",
+                    "kgml_internal_id": "72"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT1G24735 ath:AT1G67980 ath:AT4G26220 ath:AT4G34050",
+                    "label": "AT1G24735...",
+                    "type": "gene",
+                    "kgml_internal_id": "73"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16419",
+                    "label": "C16419",
+                    "type": "compound",
+                    "kgml_internal_id": "74"
+                }
+            },
+            {
+                "data": {
+                    "id": "path:ath00940",
+                    "label": "Phenylpropanoid biosynthesis",
+                    "type": "map",
+                    "kgml_internal_id": "75"
+                }
+            },
+            {
+                "data": {
+                    "id": "path:ath00941",
+                    "label": "TITLE:Flavonoid biosynthesis",
+                    "type": "map",
+                    "kgml_internal_id": "76"
+                }
+            },
+            {
+                "data": {
+                    "id": "path:map00943",
+                    "label": "Isoflavonoid biosynthesis",
+                    "type": "map",
+                    "kgml_internal_id": "77"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16406",
+                    "label": "C16406",
+                    "type": "compound",
+                    "kgml_internal_id": "78"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16418",
+                    "label": "C16418",
+                    "type": "compound",
+                    "kgml_internal_id": "79"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16404",
+                    "label": "C16404",
+                    "type": "compound",
+                    "kgml_internal_id": "80"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C08650",
+                    "label": "C08650",
+                    "type": "compound",
+                    "kgml_internal_id": "81"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C16415",
+                    "label": "C16415",
+                    "type": "compound",
+                    "kgml_internal_id": "82"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C08578",
+                    "label": "C08578",
+                    "type": "compound",
+                    "kgml_internal_id": "83"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00540",
+                    "label": "C00540",
+                    "type": "compound",
+                    "kgml_internal_id": "84"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09826",
+                    "label": "C09826",
+                    "type": "compound",
+                    "kgml_internal_id": "85"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09762",
+                    "label": "C09762",
+                    "type": "compound",
+                    "kgml_internal_id": "86"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09751",
+                    "label": "C09751",
+                    "type": "compound",
+                    "kgml_internal_id": "87"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "FLS1...",
+                    "type": "gene",
+                    "kgml_internal_id": "171"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G51240",
+                    "label": "F3H",
+                    "type": "gene",
+                    "kgml_internal_id": "172"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G51240",
+                    "label": "F3H",
+                    "type": "gene",
+                    "kgml_internal_id": "173"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "TT5...",
+                    "type": "gene",
+                    "kgml_internal_id": "174"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "TT5...",
+                    "type": "gene",
+                    "kgml_internal_id": "175"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "TT5...",
+                    "type": "gene",
+                    "kgml_internal_id": "176"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G13930",
+                    "label": "TT4",
+                    "type": "gene",
+                    "kgml_internal_id": "177"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13077",
+                    "label": "K13077",
+                    "type": "ortholog",
+                    "kgml_internal_id": "178"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G07990",
+                    "label": "TT7",
+                    "type": "gene",
+                    "kgml_internal_id": "179"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13080",
+                    "label": "K13080",
+                    "type": "ortholog",
+                    "kgml_internal_id": "182"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13080",
+                    "label": "K13080",
+                    "type": "ortholog",
+                    "kgml_internal_id": "183"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "AT4G22870...",
+                    "type": "gene",
+                    "kgml_internal_id": "184"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G42800",
+                    "label": "DFR",
+                    "type": "gene",
+                    "kgml_internal_id": "185"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "FLS1...",
+                    "type": "gene",
+                    "kgml_internal_id": "186"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "AT4G22870...",
+                    "type": "gene",
+                    "kgml_internal_id": "187"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13081",
+                    "label": "K13081",
+                    "type": "ortholog",
+                    "kgml_internal_id": "188"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT1G61720",
+                    "label": "BAN",
+                    "type": "gene",
+                    "kgml_internal_id": "189"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G07990",
+                    "label": "TT7",
+                    "type": "gene",
+                    "kgml_internal_id": "190"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G42800",
+                    "label": "DFR",
+                    "type": "gene",
+                    "kgml_internal_id": "191"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G42800",
+                    "label": "DFR",
+                    "type": "gene",
+                    "kgml_internal_id": "192"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13078",
+                    "label": "K13078",
+                    "type": "ortholog",
+                    "kgml_internal_id": "193"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K21581",
+                    "label": "K21581",
+                    "type": "ortholog",
+                    "kgml_internal_id": "194"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "TT5...",
+                    "type": "gene",
+                    "kgml_internal_id": "195"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13079",
+                    "label": "K13079",
+                    "type": "ortholog",
+                    "kgml_internal_id": "196"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13079",
+                    "label": "K13079",
+                    "type": "ortholog",
+                    "kgml_internal_id": "197"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13079",
+                    "label": "K13079",
+                    "type": "ortholog",
+                    "kgml_internal_id": "198"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G07990",
+                    "label": "TT7",
+                    "type": "gene",
+                    "kgml_internal_id": "199"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13077",
+                    "label": "K13077",
+                    "type": "ortholog",
+                    "kgml_internal_id": "200"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G51240",
+                    "label": "F3H",
+                    "type": "gene",
+                    "kgml_internal_id": "201"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G07990",
+                    "label": "TT7",
+                    "type": "gene",
+                    "kgml_internal_id": "202"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G42800",
+                    "label": "DFR",
+                    "type": "gene",
+                    "kgml_internal_id": "203"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13077",
+                    "label": "K13077",
+                    "type": "ortholog",
+                    "kgml_internal_id": "204"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13077",
+                    "label": "K13077",
+                    "type": "ortholog",
+                    "kgml_internal_id": "205"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "206"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "207"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G07990",
+                    "label": "TT7",
+                    "type": "gene",
+                    "kgml_internal_id": "208"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "FLS1...",
+                    "type": "gene",
+                    "kgml_internal_id": "209"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G07990",
+                    "label": "TT7",
+                    "type": "gene",
+                    "kgml_internal_id": "210"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "AT4G22870...",
+                    "type": "gene",
+                    "kgml_internal_id": "211"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT1G61720",
+                    "label": "BAN",
+                    "type": "gene",
+                    "kgml_internal_id": "212"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "213"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "214"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "215"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "216"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "FLS1...",
+                    "type": "gene",
+                    "kgml_internal_id": "217"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "AT4G22870...",
+                    "type": "gene",
+                    "kgml_internal_id": "218"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G42800",
+                    "label": "DFR",
+                    "type": "gene",
+                    "kgml_internal_id": "219"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT1G61720",
+                    "label": "BAN",
+                    "type": "gene",
+                    "kgml_internal_id": "220"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "AT4G22870...",
+                    "type": "gene",
+                    "kgml_internal_id": "221"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13081",
+                    "label": "K13081",
+                    "type": "ortholog",
+                    "kgml_internal_id": "222"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G42800",
+                    "label": "DFR",
+                    "type": "gene",
+                    "kgml_internal_id": "223"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G51240",
+                    "label": "F3H",
+                    "type": "gene",
+                    "kgml_internal_id": "224"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G13930",
+                    "label": "TT4",
+                    "type": "gene",
+                    "kgml_internal_id": "225"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "SHT...",
+                    "type": "gene",
+                    "kgml_internal_id": "226"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "SHT...",
+                    "type": "gene",
+                    "kgml_internal_id": "227"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT2G40890",
+                    "label": "CYP98A3",
+                    "type": "gene",
+                    "kgml_internal_id": "228"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT2G40890",
+                    "label": "CYP98A3",
+                    "type": "gene",
+                    "kgml_internal_id": "229"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "SHT...",
+                    "type": "gene",
+                    "kgml_internal_id": "231"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "SHT...",
+                    "type": "gene",
+                    "kgml_internal_id": "232"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G13930",
+                    "label": "TT4",
+                    "type": "gene",
+                    "kgml_internal_id": "233"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13081",
+                    "label": "K13081",
+                    "type": "ortholog",
+                    "kgml_internal_id": "234"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G51240",
+                    "label": "F3H",
+                    "type": "gene",
+                    "kgml_internal_id": "235"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT3G51240",
+                    "label": "F3H",
+                    "type": "gene",
+                    "kgml_internal_id": "236"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT2G30490",
+                    "label": "C4H",
+                    "type": "gene",
+                    "kgml_internal_id": "238"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G13930",
+                    "label": "TT4",
+                    "type": "gene",
+                    "kgml_internal_id": "240"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "241"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13083",
+                    "label": "K13083",
+                    "type": "ortholog",
+                    "kgml_internal_id": "242"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C22048",
+                    "label": "C22048",
+                    "type": "compound",
+                    "kgml_internal_id": "243"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K21582",
+                    "label": "K21582",
+                    "type": "ortholog",
+                    "kgml_internal_id": "245"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C21913",
+                    "label": "C21913",
+                    "type": "compound",
+                    "kgml_internal_id": "248"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C00774",
+                    "label": "C00774",
+                    "type": "compound",
+                    "kgml_internal_id": "249"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G13930",
+                    "label": "TT4",
+                    "type": "gene",
+                    "kgml_internal_id": "251"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C01604",
+                    "label": "C01604",
+                    "type": "compound",
+                    "kgml_internal_id": "253"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K22845",
+                    "label": "K22845",
+                    "type": "ortholog",
+                    "kgml_internal_id": "254"
+                }
+            },
+            {
+                "data": {
+                    "id": "ath:AT5G13930",
+                    "label": "TT4",
+                    "type": "gene",
+                    "kgml_internal_id": "255"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K23053",
+                    "label": "K23053",
+                    "type": "ortholog",
+                    "kgml_internal_id": "257"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K22440",
+                    "label": "K22440",
+                    "type": "ortholog",
+                    "kgml_internal_id": "258"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C05334",
+                    "label": "C05334",
+                    "type": "compound",
+                    "kgml_internal_id": "259"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C09833",
+                    "label": "C09833",
+                    "type": "compound",
+                    "kgml_internal_id": "260"
+                }
+            },
+            {
+                "data": {
+                    "id": "cpd:C12123",
+                    "label": "C12123",
+                    "type": "compound",
+                    "kgml_internal_id": "262"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K13077",
+                    "label": "K13077",
+                    "type": "ortholog",
+                    "kgml_internal_id": "263"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K23179",
+                    "label": "K23179",
+                    "type": "ortholog",
+                    "kgml_internal_id": "264"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K23179 ko:K23180",
+                    "label": "K23179...",
+                    "type": "ortholog",
+                    "kgml_internal_id": "265"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K23179 ko:K23180",
+                    "label": "K23179...",
+                    "type": "ortholog",
+                    "kgml_internal_id": "266"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K21372",
+                    "label": "K21372",
+                    "type": "ortholog",
+                    "kgml_internal_id": "267"
+                }
+            },
+            {
+                "data": {
+                    "id": "ko:K21372",
+                    "label": "K21372",
+                    "type": "ortholog",
+                    "kgml_internal_id": "268"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "id": "e_rel_1",
+                    "source": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "80",
+                            "value_node_name": "cpd:C16404"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_2",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "64",
+                            "value_node_name": "cpd:C09827"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_3",
+                    "source": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "85",
+                            "value_node_name": "cpd:C09826"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_4",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "86",
+                            "value_node_name": "cpd:C09762"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_5",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "86",
+                            "value_node_name": "cpd:C09762"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_6",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "86",
+                            "value_node_name": "cpd:C09762"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_7",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "87",
+                            "value_node_name": "cpd:C09751"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_8",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "87",
+                            "value_node_name": "cpd:C09751"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_9",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "87",
+                            "value_node_name": "cpd:C09751"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_10",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "63",
+                            "value_node_name": "cpd:C09614"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_11",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "63",
+                            "value_node_name": "cpd:C09614"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_12",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "63",
+                            "value_node_name": "cpd:C09614"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_13",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "67",
+                            "value_node_name": "cpd:C01378"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_14",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "67",
+                            "value_node_name": "cpd:C01378"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_15",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "67",
+                            "value_node_name": "cpd:C01378"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_16",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_17",
+                    "source": "ath:AT5G42800",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_18",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_19",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_20",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_21",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_22",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_23",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_24",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_25",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_26",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_27",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT5G07990",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_28",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_29",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_30",
+                    "source": "ath:AT5G42800",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "40",
+                            "value_node_name": "cpd:C00974"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_31",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "39",
+                            "value_node_name": "cpd:C03648"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_32",
+                    "source": "ath:AT1G61720",
+                    "target": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "38",
+                            "value_node_name": "cpd:C05904"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_33",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "35",
+                            "value_node_name": "cpd:C05903"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_34",
+                    "source": "ath:AT2G40890",
+                    "target": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "21",
+                            "value_node_name": "cpd:C02947"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_35",
+                    "source": "ath:AT2G40890",
+                    "target": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "17",
+                            "value_node_name": "cpd:C12208"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_36",
+                    "source": "ath:AT2G40890",
+                    "target": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "18",
+                            "value_node_name": "cpd:C10434"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_37",
+                    "source": "ath:AT2G40890",
+                    "target": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "16",
+                            "value_node_name": "cpd:C00852"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_38",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT1G24735 ath:AT1G67980 ath:AT4G26220 ath:AT4G34050",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "51",
+                            "value_node_name": "cpd:C00323"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_39",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "51",
+                            "value_node_name": "cpd:C00323"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_40",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT1G24735 ath:AT1G67980 ath:AT4G26220 ath:AT4G34050",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "51",
+                            "value_node_name": "cpd:C00323"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_41",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT1G24735 ath:AT1G67980 ath:AT4G26220 ath:AT4G34050",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "51",
+                            "value_node_name": "cpd:C00323"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_42",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "51",
+                            "value_node_name": "cpd:C00323"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_43",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "46",
+                            "value_node_name": "cpd:C05631"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_44",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "46",
+                            "value_node_name": "cpd:C05631"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_45",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "46",
+                            "value_node_name": "cpd:C05631"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_46",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_47",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT3G51240",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_48",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_49",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_50",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT5G07990",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_51",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_52",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_53",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_54",
+                    "source": "ath:AT5G42800",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "33",
+                            "value_node_name": "cpd:C01617"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_55",
+                    "source": "ath:AT5G07990",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "34",
+                            "value_node_name": "cpd:C00389"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_56",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "32",
+                            "value_node_name": "cpd:C05906"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_57",
+                    "source": "ath:AT1G61720",
+                    "target": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "30",
+                            "value_node_name": "cpd:C05905"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_58",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT1G24735 ath:AT1G67980 ath:AT4G26220 ath:AT4G34050",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "49",
+                            "value_node_name": "cpd:C00406"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_59",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "27",
+                            "value_node_name": "cpd:C02906"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_60",
+                    "source": "ath:AT3G51240",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "27",
+                            "value_node_name": "cpd:C02906"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_61",
+                    "source": "ath:AT5G42800",
+                    "target": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "27",
+                            "value_node_name": "cpd:C02906"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_62",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "ath:AT5G42800",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "26",
+                            "value_node_name": "cpd:C05909"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_63",
+                    "source": "ath:AT1G61720",
+                    "target": "ath:AT4G22870 ath:AT4G22880",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "25",
+                            "value_node_name": "cpd:C05908"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_64",
+                    "source": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "target": "path:map00943",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "86",
+                            "value_node_name": "cpd:C09762"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_65",
+                    "source": "ath:AT5G07990",
+                    "target": "path:map00943",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "86",
+                            "value_node_name": "cpd:C09762"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_66",
+                    "source": "ath:AT3G51240",
+                    "target": "path:map00943",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "86",
+                            "value_node_name": "cpd:C09762"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_67",
+                    "source": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "target": "path:map00943",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_68",
+                    "source": "ath:AT5G07990",
+                    "target": "path:map00943",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_69",
+                    "source": "ath:AT5G42800",
+                    "target": "path:map00943",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_70",
+                    "source": "ath:AT3G51240",
+                    "target": "path:map00943",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "56",
+                            "value_node_name": "cpd:C00509"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_71",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "path:ath00942",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "38",
+                            "value_node_name": "cpd:C05904"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_72",
+                    "source": "ath:AT1G61720",
+                    "target": "path:ath00942",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "38",
+                            "value_node_name": "cpd:C05904"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_73",
+                    "source": "ath:AT5G07990",
+                    "target": "path:ath00944",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "45",
+                            "value_node_name": "cpd:C01477"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_74",
+                    "source": "ath:AT5G08640 ath:AT5G43935 ath:AT5G63580 ath:AT5G63590 ath:AT5G63595 ath:AT5G63600",
+                    "target": "path:ath00944",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "35",
+                            "value_node_name": "cpd:C05903"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_75",
+                    "source": "ath:AT5G07990",
+                    "target": "path:ath00944",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "35",
+                            "value_node_name": "cpd:C05903"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_76",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "path:ath00942",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "30",
+                            "value_node_name": "cpd:C05905"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_77",
+                    "source": "ath:AT1G61720",
+                    "target": "path:ath00942",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "30",
+                            "value_node_name": "cpd:C05905"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_78",
+                    "source": "ath:AT4G22870 ath:AT4G22880",
+                    "target": "path:ath00942",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "25",
+                            "value_node_name": "cpd:C05908"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_79",
+                    "source": "ath:AT1G61720",
+                    "target": "path:ath00942",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "25",
+                            "value_node_name": "cpd:C05908"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_80",
+                    "source": "path:ath00940",
+                    "target": "ath:AT2G30490",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "84",
+                            "value_node_name": "cpd:C00540"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_81",
+                    "source": "path:ath00940",
+                    "target": "ath:AT5G13930",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "84",
+                            "value_node_name": "cpd:C00540"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_82",
+                    "source": "ath:AT2G30490",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "84",
+                            "value_node_name": "cpd:C00540"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_83",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "path:ath00940",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_84",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT2G30490",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_85",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "path:ath00940",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_86",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT2G30490",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_87",
+                    "source": "path:ath00940",
+                    "target": "ath:AT2G30490",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_88",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "81",
+                            "value_node_name": "cpd:C08650"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_89",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT2G30490",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_90",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_91",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_92",
+                    "source": "ath:AT5G13930",
+                    "target": "path:ath00940",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_93",
+                    "source": "path:ath00940",
+                    "target": "ath:AT5G13930",
+                    "label": "maplink",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_94",
+                    "source": "ath:AT2G30490",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_95",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_96",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_97",
+                    "source": "ath:AT2G19070 ath:AT5G48930 ath:AT5G57840",
+                    "target": "ath:AT5G13930",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "71",
+                            "value_node_name": "cpd:C00223"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rel_98",
+                    "source": "ath:AT5G13930",
+                    "target": "ath:AT3G55120 ath:AT5G05270 ath:AT5G66220",
+                    "label": "ECrel",
+                    "subtypes": [
+                        {
+                            "name": "compound",
+                            "value_internal_id": "65",
+                            "value_node_name": "cpd:C06561"
+                        }
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_99",
+                    "source": "cpd:C09826",
+                    "target": "cpd:C10044",
+                    "label": "rn:R08082",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "85"
+                    ],
+                    "all_products_internal_ids": [
+                        "19"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_100",
+                    "source": "cpd:C12208",
+                    "target": "cpd:C00852",
+                    "label": "rn:R04342",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "17"
+                    ],
+                    "all_products_internal_ids": [
+                        "16"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_101",
+                    "source": "cpd:C02947",
+                    "target": "cpd:C10434",
+                    "label": "rn:R06582",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "21"
+                    ],
+                    "all_products_internal_ids": [
+                        "18"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_102",
+                    "source": "cpd:C10434",
+                    "target": "cpd:C00323",
+                    "label": "rn:R07433",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "18"
+                    ],
+                    "all_products_internal_ids": [
+                        "51"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_103",
+                    "source": "cpd:C00223",
+                    "target": "cpd:C02947",
+                    "label": "rn:R02416",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "71"
+                    ],
+                    "all_products_internal_ids": [
+                        "21"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_104",
+                    "source": "cpd:C00852",
+                    "target": "cpd:C00323",
+                    "label": "rn:R01945",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "16"
+                    ],
+                    "all_products_internal_ids": [
+                        "51"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_105",
+                    "source": "cpd:C00223",
+                    "target": "cpd:C12208",
+                    "label": "rn:R07432",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "71"
+                    ],
+                    "all_products_internal_ids": [
+                        "17"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_106",
+                    "source": "cpd:C05903",
+                    "target": "cpd:C00389",
+                    "label": "rn:R06538",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "35"
+                    ],
+                    "all_products_internal_ids": [
+                        "34"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_107",
+                    "source": "cpd:C05908",
+                    "target": "cpd:C12136",
+                    "label": "rn:R06543",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "25"
+                    ],
+                    "all_products_internal_ids": [
+                        "24"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_108",
+                    "source": "cpd:C05905",
+                    "target": "cpd:C09727",
+                    "label": "rn:R06542",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "30"
+                    ],
+                    "all_products_internal_ids": [
+                        "29"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_109",
+                    "source": "cpd:C05904",
+                    "target": "cpd:C12128",
+                    "label": "rn:R06541",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "38"
+                    ],
+                    "all_products_internal_ids": [
+                        "37"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_110",
+                    "source": "cpd:C05909",
+                    "target": "cpd:C05908",
+                    "label": "rn:R05037",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "26"
+                    ],
+                    "all_products_internal_ids": [
+                        "25"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_111",
+                    "source": "cpd:C05906",
+                    "target": "cpd:C05905",
+                    "label": "rn:R05036",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "32"
+                    ],
+                    "all_products_internal_ids": [
+                        "30"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_112",
+                    "source": "cpd:C03648",
+                    "target": "cpd:C05904",
+                    "label": "rn:R04276",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "39"
+                    ],
+                    "all_products_internal_ids": [
+                        "38"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_113",
+                    "source": "cpd:C05906",
+                    "target": "cpd:C01617",
+                    "label": "rn:R05723",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "32"
+                    ],
+                    "all_products_internal_ids": [
+                        "33"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_114",
+                    "source": "cpd:C03648",
+                    "target": "cpd:C00974",
+                    "label": "rn:R06540",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "39"
+                    ],
+                    "all_products_internal_ids": [
+                        "40"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_115",
+                    "source": "cpd:C09751",
+                    "target": "cpd:C01378",
+                    "label": "rn:R08032",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "87"
+                    ],
+                    "all_products_internal_ids": [
+                        "67"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_116",
+                    "source": "cpd:C00974",
+                    "target": "cpd:C01617",
+                    "label": "rn:R03124",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "40"
+                    ],
+                    "all_products_internal_ids": [
+                        "33"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_117",
+                    "source": "cpd:C00509",
+                    "target": "cpd:C05631",
+                    "label": "rn:R02442",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "56"
+                    ],
+                    "all_products_internal_ids": [
+                        "46"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_118",
+                    "source": "cpd:C09762",
+                    "target": "cpd:C09614",
+                    "label": "rn:R08002",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "86"
+                    ],
+                    "all_products_internal_ids": [
+                        "63"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_119",
+                    "source": "cpd:C05911",
+                    "target": "cpd:C02906",
+                    "label": "rn:R05039",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "42"
+                    ],
+                    "all_products_internal_ids": [
+                        "27"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_120",
+                    "source": "cpd:C05631",
+                    "target": "cpd:C01617",
+                    "label": "rn:R03640",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "46"
+                    ],
+                    "all_products_internal_ids": [
+                        "33"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_121",
+                    "source": "cpd:C00509",
+                    "target": "cpd:C00974",
+                    "label": "rn:R02444",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "56"
+                    ],
+                    "all_products_internal_ids": [
+                        "40"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_122",
+                    "source": "cpd:C09614",
+                    "target": "cpd:C01378",
+                    "label": "rn:R07997",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "63"
+                    ],
+                    "all_products_internal_ids": [
+                        "67"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_123",
+                    "source": "cpd:C09762",
+                    "target": "cpd:C09751",
+                    "label": "rn:R07996",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "86"
+                    ],
+                    "all_products_internal_ids": [
+                        "87"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_124",
+                    "source": "cpd:C09827",
+                    "target": "cpd:C09826",
+                    "label": "rn:R07993",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "64"
+                    ],
+                    "all_products_internal_ids": [
+                        "85"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_125",
+                    "source": "cpd:C02906",
+                    "target": "cpd:C05909",
+                    "label": "rn:R05038",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "27"
+                    ],
+                    "all_products_internal_ids": [
+                        "26"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_126",
+                    "source": "cpd:C01617",
+                    "target": "cpd:C05906",
+                    "label": "rn:R03636",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "33"
+                    ],
+                    "all_products_internal_ids": [
+                        "32"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_127",
+                    "source": "cpd:C00974",
+                    "target": "cpd:C03648",
+                    "label": "rn:R03123",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "40"
+                    ],
+                    "all_products_internal_ids": [
+                        "39"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_128",
+                    "source": "cpd:C01378",
+                    "target": "cpd:C09736",
+                    "label": "rn:R07999",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "67"
+                    ],
+                    "all_products_internal_ids": [
+                        "69"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_129",
+                    "source": "cpd:C09751",
+                    "target": "cpd:C16415",
+                    "label": "rn:R07998",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "87"
+                    ],
+                    "all_products_internal_ids": [
+                        "82"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_130",
+                    "source": "cpd:C02906",
+                    "target": "cpd:C10107",
+                    "label": "rn:R06539",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "27"
+                    ],
+                    "all_products_internal_ids": [
+                        "28"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_131",
+                    "source": "cpd:C00323",
+                    "target": "cpd:C15525",
+                    "label": "rn:R07988",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "51"
+                    ],
+                    "all_products_internal_ids": [
+                        "50"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_132",
+                    "source": "cpd:C00509",
+                    "target": "cpd:C12124",
+                    "label": "rn:R06610",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "56"
+                    ],
+                    "all_products_internal_ids": [
+                        "22"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_133",
+                    "source": "cpd:C06561",
+                    "target": "cpd:C00509",
+                    "label": "rn:R02446",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "65"
+                    ],
+                    "all_products_internal_ids": [
+                        "56"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_134",
+                    "source": "cpd:C00406",
+                    "target": "cpd:C16405",
+                    "label": "rn:R07989",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "49"
+                    ],
+                    "all_products_internal_ids": [
+                        "48"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_135",
+                    "source": "cpd:C00323",
+                    "target": "cpd:C00406",
+                    "label": "rn:R01942",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "51"
+                    ],
+                    "all_products_internal_ids": [
+                        "49"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_136",
+                    "source": "cpd:C01477",
+                    "target": "cpd:C01514",
+                    "label": "rn:R06537",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "45"
+                    ],
+                    "all_products_internal_ids": [
+                        "44"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_137",
+                    "source": "cpd:C00974",
+                    "target": "cpd:C05903",
+                    "label": "rn:R03126",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "40"
+                    ],
+                    "all_products_internal_ids": [
+                        "35"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_138",
+                    "source": "cpd:C16404",
+                    "target": "cpd:C09827",
+                    "label": "rn:R07990",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "80"
+                    ],
+                    "all_products_internal_ids": [
+                        "64"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_139",
+                    "source": "cpd:C05631",
+                    "target": "cpd:C05907",
+                    "label": "rn:R04901",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "46"
+                    ],
+                    "all_products_internal_ids": [
+                        "43"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_140",
+                    "source": "cpd:C08578",
+                    "target": "cpd:C09614",
+                    "label": "rn:R07995",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "83"
+                    ],
+                    "all_products_internal_ids": [
+                        "63"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_141",
+                    "source": "cpd:C00540",
+                    "target": "cpd:C16404",
+                    "label": "rn:R07987",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "84"
+                    ],
+                    "all_products_internal_ids": [
+                        "80"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_142",
+                    "source": "cpd:C08650",
+                    "target": "cpd:C09762",
+                    "label": "rn:R06556",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "81"
+                    ],
+                    "all_products_internal_ids": [
+                        "86"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_143",
+                    "source": "cpd:C01617",
+                    "target": "cpd:C00389",
+                    "label": "rn:R02160",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "33"
+                    ],
+                    "all_products_internal_ids": [
+                        "34"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_144",
+                    "source": "cpd:C00540",
+                    "target": "cpd:C00223",
+                    "label": "rn:R08815",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "84"
+                    ],
+                    "all_products_internal_ids": [
+                        "71"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_145",
+                    "source": "cpd:C00223",
+                    "target": "cpd:C08650",
+                    "label": "rn:R06568",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "71"
+                    ],
+                    "all_products_internal_ids": [
+                        "81"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_146",
+                    "source": "cpd:C21913",
+                    "target": "cpd:C00774",
+                    "label": "rn:R12117",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "248"
+                    ],
+                    "all_products_internal_ids": [
+                        "249"
+                    ]
+                }
+            },
+            {
+                "data": {
+                    "id": "e_rxn_147",
+                    "source": "cpd:C00223",
+                    "target": "cpd:C06561",
+                    "label": "rn:R01613",
+                    "reaction_type": "irreversible",
+                    "all_substrates_internal_ids": [
+                        "71"
+                    ],
+                    "all_products_internal_ids": [
+                        "65"
+                    ]
+                }
+            }
+        ]
+    }
+}
