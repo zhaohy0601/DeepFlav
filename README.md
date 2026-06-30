@@ -75,40 +75,6 @@ DeepFlav Frontend (Vue 3 + TypeScript)
 | **HTTP Client** | Axios |
 | **Data Export** | SheetJS (XLSX) |
 
-## Quick Start
-
-### Prerequisites
-
-- **Node.js** >= 18
-- **npm** >= 9
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/DeepFlav.git
-cd DeepFlav/frontend
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Build for Production
-
-```bash
-# Type check
-npm run type-check
-
-# Build
-npm run build
-
-# Preview production build
-npm run preview
-```
-
 ## Project Structure
 
 ```
