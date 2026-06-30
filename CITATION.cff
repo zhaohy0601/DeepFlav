@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DeepFlav: An Integrated Platform for Prediction and Analysis of Flavonoid Biosynthetic Genes"
+authors:
+  - given-names: Hongyun
+    family-names: Zhao
+  - given-names: Xuemeng
+    family-names: Zhao
+  - given-names: Zuwen
+    family-names: Zhou
+  - given-names: Jingming
+    family-names: Li
+  - given-names: Yanhan
+    family-names: Shao
+  - given-names: Renjian
+    family-names: Tian
+  - given-names: Shouchuang
+    family-names: Wang
+  - given-names: Ling-Ling
+    family-names: Chen
+    orcid: ""  # TODO: update upon publication
+  - given-names: Hao
+    family-names: Guo
+    orcid: ""  # TODO: update upon publication
+date-released: "2025-01-01"  # TODO: update upon publication
+url: "https://github.com/zhaohy0601/DeepFlav"
+repository-code: "https://github.com/zhaohy0601/DeepFlav"
+# TODO: uncomment and fill in the following fields upon publication:
+# type: article
+# journal: ""
+# doi: ""
+# volume: ""
+# issue: ""
+# start: ""
+# end: ""
+license: MIT
